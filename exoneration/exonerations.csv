@@ -1,0 +1,1571 @@
+RowSort,RowID,Last Name,First Name,Age,Race,State,County,sentence in years2,Convicted,Exonerated,Yrs in Jail,Age Released,Time Since,Age Now,DNA
+0.041246439,1,Jackson,John,59,Black,WA,Grant,6.5,1996,2001,5,64,15,79,
+0.343903219,2,Patterson,Aaron,21,Black,IL,Cook,71,1989,2003,14,35,13,48,
+0.931987893,3,Vargas,Luis,29,Hispanic,CA,Los Angeles,55,1999,2015,16,45,1,46,DNA
+0.613757101,4,Pendleton,Marlon,35,Black,IL,Cook,20,1996,2006,10,45,10,55,DNA
+0.569758373,5,Taylor,Robert,14,Black,IL,Cook,80,1997,2011,14,28,5,33,DNA
+0.273680141,6,Gristwood,Daniel,29,Caucasian,NY,Onondaga,18.5,1996,2006,10,39,10,49,
+0.937983402,7,Caminata,Victor,33,Caucasian,MI,Wexford,24.5,2009,2014,5,38,2,40,
+0.977521071,8,Woidtke,Rodney,27,Caucasian,IL,St. Clair,45,1989,2001,12,39,15,54,
+0.751069359,9,Reasonover,Ellen,24,Black,MO,St. Louis,75,1983,1999,16,40,17,57,
+0.444495707,10,Phillips,Paul,17,Black,IL,Cook,30,1995,2014,19,36,2,38,
+0.090150802,11,Gariepy,Ronnie Mark,32,Caucasian,TX,Hutchinson,12,1992,2000,8,40,16,56,
+0.182057515,12,Strughold,James,53,Caucasian,MO,St. Louis,0.082191781,1997,1999,2,55,17,72,
+0.965768498,13,Love,Dwight,22,Black,MI,Wayne,68,1982,2001,19,41,15,56,
+0.207713573,14,Suarez,Rafael,31,Hispanic,AZ,Cochise,5,1997,2000,3,34,16,50,
+0.573379435,15,Walls,George,39,Black,PA,Allegheny,7.5,2003,2011,8,47,5,52,
+0.310369719,16,Gilyard,Eugene,16,Black,PA,Philadelphia,76,1998,2014,16,32,2,34,
+0.747369782,17,Williams,Emmaline,43,Black,IL,Cook,12,1986,1995,9,52,21,73,
+0.66871663,18,Atlas,Gerald,25,Black,CA,Los Angeles,63,1990,1998,8,33,18,51,
+0.851998294,19,Salvati,Joseph,31,Caucasian,MA,Suffolk,63,1968,2001,33,64,15,79,
+0.541369121,20,Acero,Longino,35,Hispanic,CA,Santa Clara,2.5,1994,2006,12,47,10,57,
+0.351583606,21,Santos,Louis,20,Black,MA,Suffolk,73,1985,1990,5,25,26,51,
+0.682220129,22,Silva-Santiago,Jesus,28,Hispanic,MA,Plymouth,79,2006,2010,4,32,6,38,
+0.186870359,23,McGowan,Thomas,24,Black,TX,Dallas,71,1985,2008,23,47,8,55,DNA
+0.258845718,24,Parish,Christopher,21,Black,IN,Elkhart,30,1998,2006,8,29,10,39,DNA
+0.343368359,25,Jasin,Thomas,46,Caucasian,F-PA,(Eastern),2,1992,2003,11,57,13,70,
+0.642650124,26,Rivera,Jonathan,22,Hispanic,PR,San Juan,77,2007,2008,1,23,8,31,
+0.033123579,27,Scruggs,Dwayne D.,32,Black,IN,Marion,40,1986,1993,7,39,23,62,DNA
+0.983191284,28,Spurlock,Robert,22,Caucasian,TN,Sumner,69,1990,1996,6,28,20,48,
+0.263808219,29,Carter,William Douglas,55,Caucasian,VA,Loudoun,14,1988,1992,4,59,24,83,
+0.357904446,30,Richardson,Harold,16,Black,IL,Cook,40,1997,2012,15,31,4,35,DNA
+0.611320093,31,Reyes,George,33,Hispanic,TX,Harris,0.833333333,2013,2015,2,35,1,36,
+0.448323117,32,Perez,Josefina,31,Hispanic,RI,Providence,3,2002,2005,3,34,11,45,
+0.00371129,33,Bromgard,Jimmy Ray,18,Caucasian,MT,Yellowstone,40,1987,2002,15,33,14,47,DNA
+0.815756143,34,Harris,Keith,19,Black,IL,St. Clair,50,1979,2003,24,43,13,56,
+0.728224074,35,Payne,Dana,28,Caucasian,MN,Hennepin,1,1989,1991,2,30,25,55,
+0.590662278,36,Williams,Antonio,35,Black,AL,Jefferson,75,2007,2011,4,39,5,44,
+0.516908678,37,Esse,Eric,33,Caucasian,IA,Cerro Gordo,64,2003,2006,3,36,10,46,
+0.50550413,38,Briscoe,Johnny,28,Black,MO,St. Louis,45,1983,2006,23,51,10,61,DNA
+0.338934583,39,Reeves,Marvin,29,Black,IL,Cook,72,1991,2009,18,47,7,54,
+0.79439732,40,Neirynck,Brian,33,Caucasian,IN,St. Joseph,30,2003,2012,9,42,4,46,
+0.582730004,41,Baba-Ali,Amine,31,Other,NY,Queens,16.5,1989,1992,3,34,24,58,
+0.710521351,42,Pierce,Milyn,32,Caucasian,TX,Montgomery,0.5,2014,2015,1,33,1,34,
+0.8650292,43,Osborne,Larry,17,Caucasian,KY,Whitley,79,1999,2002,3,20,14,34,
+0.495153468,44,Abbitt,Joseph Lamont,31,Black,NC,Forsyth,59,1995,2009,14,45,7,52,DNA
+0.822648274,45,Ross,Ronald,44,Black,CA,Alameda,48,2006,2013,7,51,3,54,
+0.16509772,46,Mawson,Kimberly,32,Caucasian,RI,Kent,35,2007,2012,5,37,4,41,
+0.791361114,47,McGee,Marvin,32,Black,TX,Harris,0.082191781,2014,2015,1,33,1,34,
+0.481799484,48,Groce,Tyrone,28,Black,NY,Kings,8,1993,1995,2,30,21,51,
+0.39449837,49,Baddeley,Gabriel,19,Black,WA,Benton,0.166666667,2002,2004,2,21,12,33,
+0.832346244,50,Massey,Shawn Giovanni,25,Black,NC,Mecklenburg,11,1999,2010,11,36,6,42,
+0.303604012,51,Heistand,Donald,29,Caucasian,MI,Otsego,4,1989,2002,13,42,14,56,
+0.837227144,52,Gaines,Lynie,36,Black,MI,Wayne,20,1990,1997,7,43,19,62,
+0.019174477,53,Cole,Christopher,19,Caucasian,FL,Hillsborough,15,1997,2001,4,23,15,38,
+0.643726645,54,Santaliz Acosta,Luis,34,Hispanic,PR,Mayaguez,100,2000,2009,9,43,7,50,
+0.414106285,55,Zimmerman,Evan,53,Caucasian,WI,Dodge,73,2001,2005,4,57,11,68,DNA
+0.359671469,56,Kimbell,Thomas,32,Caucasian,PA,Lawrence,76,1998,2002,4,36,14,50,
+0.858029809,57,Bryant,James,38,Black,CA,Los Angeles,12,1997,2000,3,41,16,57,
+0.249125273,58,Gayol,Robert,33,Hispanic,IL,Cook,65,2001,2003,2,35,13,48,
+0.157129868,59,Griffin,Patrick,40,Caucasian,NY,New York,6.65,1996,2000,4,44,16,60,
+0.400158094,60,Thompson,Franklin,45,Black,IL,Will,24,1997,2003,6,51,13,64,
+0.034896435,61,Saunders,Omar,18,Black,IL,Cook,80,1988,2001,13,31,15,46,DNA
+0.814872388,62,Gregory,William,42,Black,KY,Jefferson,70,1993,2000,7,49,16,65,DNA
+0.750517073,63,Sousa,Joseph,26,Caucasian,DC,,43,1975,2005,30,56,11,67,
+0.558148697,64,"Rollins, IV",Offord,17,Black,CA,Kern,37,1992,1996,4,21,20,41,
+0.460386472,65,Parkes,Timothy,49,Caucasian,F-TN,(Eastern),6.5,2009,2012,3,52,4,56,
+0.962664251,66,Walker,Lon,43,Caucasian,TN,Putnam,20,1997,2012,15,58,4,62,
+0.823310619,67,Shaughnessy,Eric,21,Caucasian,MA,Suffolk,5,1997,1998,1,22,18,40,
+0.41368045,68,Boyd,Latherial,24,Black,IL,Cook,82,1990,2013,23,47,3,50,
+0.629464414,69,Hunt,Darryl,19,Black,NC,Forsyth,78,1985,2004,19,38,12,50,DNA
+0.743482442,70,Atkins,Herman,19,Black,CA,Riverside,47,1988,2000,12,31,16,47,DNA
+0.230143831,71,Boquete,Orlando,27,Hispanic,FL,Monroe,65,1983,2006,23,50,10,60,DNA
+0.825141562,72,Gray,Paula,17,Black,IL,Cook,50,1978,2002,24,41,14,55,DNA
+0.01822715,73,"Winfrey, Sr.",Richard,49,Caucasian,TX,San Jacinto,75,2007,2010,3,52,6,58,
+0.071432446,74,Yarbough,Anthony,18,Black,NY,Kings,78,1994,2014,20,38,2,40,DNA
+0.709203041,75,Dill,Grace,50,Caucasian,CA,Kern,69,1985,1991,6,56,25,81,
+0.089052154,76,Rose,Peter,37,Caucasian,CA,San Joaquin,27,1995,2005,10,47,11,58,DNA
+0.912320803,77,Hoffman,Jonathon,41,Black,NC,Union,68,1996,2007,11,52,9,61,
+0.289757668,78,Murphy,Michelle,17,Caucasian,OK,Tulsa,79,1995,2014,19,36,2,38,DNA
+0.465815466,79,Woods,Cathy,26,Caucasian,NV,Washoe,67,1980,2015,35,61,1,62,DNA
+0.427031951,80,Woodard,James Lee,26,Black,TX,Dallas,73,1981,2008,27,53,8,61,DNA
+0.340064306,81,Davis,Jeramie,36,Caucasian,WA,Spokane,40,2008,2013,5,41,3,44,DNA
+0.831425778,82,Danziger,Richard,18,Caucasian,TX,Travis,77,1990,2002,12,30,14,44,DNA
+0.411432141,83,Brown,Dennis,16,Black,LA,St. Tammany,75,1985,2005,20,36,11,47,DNA
+0.615194455,84,Sealie,Frank,23,Black,AL,Jefferson,70,2014,2015,1,24,1,25,
+0.101720165,85,Mellen,Susan,42,Caucasian,CA,Los Angeles,73,1998,2014,16,58,2,60,
+0.939765202,86,Rivas,Edgar,37,Hispanic,F-NY,(Southern),10,2003,2004,1,38,12,50,
+0.907667222,87,Pierce,Jeffrey Todd,23,Caucasian,OK,Oklahoma,65,1986,2001,15,38,15,53,DNA
+0.997391754,88,Burrell,Albert,30,Caucasian,LA,Union,72,1987,2001,14,44,15,59,
+0.200614028,89,Harding,Christopher,36,Black,MA,Suffolk,11,1990,1998,8,44,18,62,
+0.698322631,90,Smith,Walter D.,27,Black,OH,Franklin,82,1986,1996,10,37,20,57,DNA
+0.508699679,91,"Miller, Jr.",Robert Lee,27,Black,OK,Oklahoma,75,1988,1998,10,37,18,55,DNA
+0.461711313,92,McCaffrey,William,28,Caucasian,NY,New York,20,2006,2009,3,31,7,38,
+0.969244252,93,Henry,Darcus,21,Black,CT,New Haven,69,1999,2013,14,35,3,38,
+0.232275791,94,Holton,Rudolph,33,Black,FL,Hillsborough,66,1987,2003,16,49,13,62,DNA
+0.156868318,95,Dedge,Wilton,20,Caucasian,FL,Brevard,30,1982,2004,22,42,12,54,DNA
+0.915355151,96,McEachern,Toney,34,Black,NC,Robeson,73,1993,1998,5,39,18,57,
+0.503630333,97,Waters,Kenneth,25,Caucasian,MA,Middlesex,80,1983,2001,18,43,15,58,DNA
+0.747652422,98,Kagonyera,Kenneth,20,Black,NC,Buncombe,13.5,2001,2011,10,30,5,35,DNA
+0.269544762,99,Brown,Leon,15,Black,NC,Robeson,79,1984,2014,30,45,2,47,DNA
+0.954334567,100,Pope,David Shawn,23,Caucasian,TX,Dallas,45,1986,2001,15,38,15,53,DNA
+0.749176754,101,Drinkard,Gary,37,Caucasian,AL,Morgan,79,1995,2001,6,43,15,58,
+0.220708107,102,Stewart,Nicholas,29,Caucasian,F-MIL,,2,2009,2012,3,32,4,36,
+0.198219806,103,Redick,Neal,28,Caucasian,MI,Genesee,23,1992,2007,15,43,9,52,
+0.928051385,104,Johnson,Andrew,39,Black,WY,Laramie,77,1989,2013,24,63,3,66,DNA
+0.685939376,105,Keko,Anthony,62,Caucasian,LA,Plaquemines,52,1993,1998,5,67,18,85,
+0.476205231,106,Croy,Patrick,23,Native American,CA,Siskiyou,79,1979,2004,25,48,12,60,
+0.787874855,107,Savory,Johnnie,14,Black,IL,Peoria,60,1977,2015,38,52,1,53,DNA
+0.353501341,108,Doyle,Robert E.,44,Caucasian,AL,Montgomery,20,1992,2001,9,53,15,68,
+0.353149722,109,Nash,A. Jabir,39,Black,NJ,Essex,22,2002,2013,11,50,3,53,
+0.357643309,110,Halsey,Byron,24,Black,NJ,Union,78,1988,2007,19,43,9,52,DNA
+0.099577152,111,Beckett,Dale,33,Black,OH,Lucas,21,1997,2003,6,39,13,52,
+0.569902459,112,Upshaw,Fredrick,26,Black,TX,Harris,0.010958904,2014,2015,1,27,1,28,
+0.734185728,113,Scott,Scotty,20,Caucasian,AR,Pulaski,25,1983,1989,6,26,27,53,
+0.418507455,114,Jamison,Derrick,23,Black,OH,Hamilton,69,1985,2005,20,43,11,54,
+0.935897697,115,Earle,Margaret,21,Caucasian,MA,Plymouth,70,2005,2010,5,26,6,32,
+0.727958698,116,"Bell, Jr.",James,27,Black,PA,Lancaster,3.5,2008,2014,6,33,2,35,
+0.972829,117,Lawson,Carl,23,Black,IL,St. Clair,69,1990,1996,6,29,20,49,
+0.102848191,118,Miller,Jerry,23,Black,IL,Cook,45,1982,2007,25,48,9,57,DNA
+0.19885271,119,Pease,Kevin,19,Native American,AK,Fairbanks,60,1999,2015,16,35,1,36,
+0.210275951,120,Santos,Jeffrey,40,Black,NY,New York,6,1998,2004,6,46,12,58,
+0.344863679,121,Wright,Cleveland,20,Black,DC,,42,1979,2014,35,55,2,57,DNA
+0.650246595,122,Chapman,Vernon,23,Black,LA,St. Tammany,73,1980,1994,14,37,22,59,
+0.929633894,123,Mumphrey,Arthur,21,Black,TX,Montgomery,35,1986,2006,20,41,10,51,DNA
+0.335374705,124,Lloyd,Eddie Joe,34,Black,MI,Wayne,74,1985,2002,17,51,14,65,DNA
+0.220314765,125,Weiner,Mark,52,Caucasian,VA,Albemarle,8,2013,2015,2,54,1,55,
+0.302226217,126,Grimes,Willie,41,Black,NC,Catawba,68,1988,2012,24,65,4,69,
+0.563699102,127,Scott,David L.,15,Caucasian,IN,Vigo,50,1985,2008,23,38,8,46,DNA
+0.175610271,128,Harris,Nicole,23,Black,IL,Cook,30,2005,2013,8,31,3,34,
+0.151259011,129,Evans,Jerry Lee,24,Black,TX,Dallas,76,1987,2009,22,46,7,53,DNA
+0.240554112,130,Green,James,46,Black,TN,Maury,16,2006,2008,2,48,8,56,
+0.308342484,131,Crosby,Daniel,31,Caucasian,MT,Missoula,3,1996,2008,12,43,8,51,
+0.63478409,132,Yarris,Nicholas,20,Caucasian,PA,Delaware,79,1982,2003,21,41,13,54,DNA
+0.95855396,133,"Miller, Jr.",Lawrence J.,36,Caucasian,CT,Fairfield,32,1983,1997,14,50,19,69,
+0.43238593,134,"Tingle, Jr.",John,25,Black,VA,Virginia Beach,10,1993,1994,1,26,22,48,
+0.320077704,135,Wiggins,David Lee,24,Caucasian,TX,Tarrant,67,1989,2012,23,47,4,51,DNA
+0.620732211,136,Forsythe,Colleen Dill,26,Caucasian,CA,Kern,66,1985,1991,6,32,25,57,
+0.978409036,137,Whitfield,Arthur Lee,26,Black,VA,Norfolk City,63,1982,2009,27,53,7,60,DNA
+0.426537613,138,Philen,Randall,50,Caucasian,TX,Brown,55,2011,2012,1,51,4,55,
+0.134929814,139,"Butler, Jr.",A.B.,27,Black,TX,Smith,75,1983,2000,17,44,16,60,DNA
+0.998079109,140,Caine,Eric,19,Black,IL,Cook,76,1989,2011,22,41,5,46,
+0.096009084,141,Bell,Jerrell,19,Black,TX,Harris,0.3,2011,2014,3,22,2,24,
+0.003243938,142,Birden,Eric,23,Black,TX,Harris,0.082191781,2007,2015,8,31,1,32,
+0.864780696,143,Terry,Paul,17,Black,IL,Cook,73,1977,2003,26,43,13,56,DNA
+0.114297615,144,Rodriguez,George,25,Hispanic,TX,Harris,60,1987,2005,18,43,11,54,DNA
+0.329515675,145,Peel,John,18,Caucasian,FL,Pinellas,10,2000,2002,2,20,14,34,
+0.338420141,146,Branch,Michael,45,Caucasian,AR,Sebastian,20,1995,1998,3,48,18,66,
+0.51165028,147,Abernathy,Christopher,17,Caucasian,IL,Cook,74,1987,2015,28,45,1,46,DNA
+0.32206336,148,Smith,Sarah,19,Caucasian,FL,Manatee,0.083333333,1998,2000,2,21,16,37,
+0.065541033,149,Cox,Jeffrey,22,Caucasian,VA,Richmond City,69,1991,2001,10,32,15,47,
+0.488499371,150,Beaver,Antonio,30,Black,MO,St. Louis City,18,1997,2007,10,40,9,49,DNA
+0.718339134,151,Williams,Richard,18,Black,CA,Sacramento,76,1998,2015,17,35,1,36,
+0.61680553,152,Green,Anthony Michael,22,Black,OH,Cuyahoga,35,1988,2001,13,35,15,50,DNA
+0.587081542,153,Terens,Daniel,27,Caucasian,WI,Manitowoc,20,1991,1993,2,29,23,52,
+0.215122482,154,Engel,Gary,33,Caucasian,MO,Clay,75,1991,2010,19,52,6,58,
+0.864704599,155,Johnson,Lumont,29,Black,IL,Winnebago,50,2002,2015,13,42,1,43,
+0.482346925,156,Lea,Joe,24,Hispanic,CA,Solano,32.5,2000,2009,9,33,7,40,
+0.012650079,157,Russell,Stephen Lynn,26,Caucasian,TX,Dallas,50,1980,1990,10,36,26,62,
+0.977575796,158,Kogut,John,19,Caucasian,NY,Nassau,33,1986,2005,19,38,11,49,DNA
+0.93645887,159,Westly,William,47,Black,NY,Bronx,29,1999,2002,3,50,14,64,
+0.582317202,160,"White, Jr.",Theodore,35,Caucasian,MO,Jackson,50,1999,2005,6,41,11,52,
+0.695276498,161,Mooney,John,19,Caucasian,MD,Baltimore City,80,2010,2014,4,23,2,25,
+0.503289073,162,Wagstaffe,Everton,23,Black,NY,Kings,18.75,1993,2015,22,45,1,46,DNA
+0.701702916,163,Williams,Thomas Wayne,38,Black,TX,Dallas,57,1998,2000,2,40,16,56,
+0.345615068,164,Rivera,Alfred,25,Hispanic,NC,Forsyth,69,1997,1999,2,27,17,44,
+0.20182924,165,Green,Willie Earl,31,Black,CA,Los Angeles,36,1984,2008,24,55,8,63,
+0.573672174,166,Porter,Anthony,27,Black,IL,Cook,74,1983,1999,16,43,17,60,
+0.104780112,167,Sims,Lennie Darrold,24,Black,CA,Los Angeles,7,1992,1994,2,26,22,48,
+0.332404034,168,Brown,Nathan,23,Black,LA,Jefferson,25,1997,2014,17,40,2,42,DNA
+0.818188164,169,Adams,Jarrett M.,17,Black,WI,Jefferson,28,2000,2007,7,24,9,33,
+0.328470127,170,Nieves,William,26,Hispanic,PA,Philadelphia,77,1994,2000,6,32,16,48,
+0.061665909,171,Moore,Anthony,32,Black,NY,New York,52,1996,1999,3,35,17,52,
+0.396673901,172,Hansen,Michael,27,Caucasian,MN,Douglas,13,2006,2011,5,32,5,37,
+0.148856667,173,DeJac,Lynn,30,Caucasian,NY,Erie,25,1994,2008,14,44,8,52,DNA
+0.8712221,174,Hamilton,Derrick,25,Black,NY,Kings,64,1992,2015,23,48,1,49,
+0.907046404,175,Gainer,Donald,31,Caucasian,PA,Allegheny,33.5,1985,1992,7,38,24,62,
+0.741483898,176,Damien,Michael,27,Caucasian,DC,,41,1975,2005,30,57,11,68,
+0.639174935,177,Anderson,David,34,Caucasian,PA,Venango,10,2001,2011,10,44,5,49,
+0.642694073,178,Wosu,Joy,33,Black,NY,Erie,25,1993,2009,16,49,7,56,
+0.84458329,179,Taylor,Ada JoAnn,21,Caucasian,NE,Gage,40,1989,2009,20,41,7,48,DNA
+0.931019898,180,Sutton,Josiah,16,Black,TX,Harris,25,1999,2004,5,21,12,33,DNA
+0.587883378,181,Burrows,Joe,35,Caucasian,IL,Iroquois,71,1989,1996,7,42,20,62,
+0.511755342,182,Craig,Sandra,37,Black,MD,Howard,10,1987,1991,4,41,25,66,
+0.326218378,183,Shephard,David L.,21,Black,NJ,Essex,30,1984,1995,11,32,21,53,DNA
+0.490571049,184,Demings,Barry,55,Black,TX,Harris,0.5,2008,2015,7,62,1,63,
+0.957707776,185,Holland,Dana,25,Black,IL,Cook,71,1997,2003,6,31,13,44,DNA
+0.762600424,186,Richardson,Gerard,28,Black,NJ,Somerset,30,1995,2013,18,46,3,49,DNA
+0.683256797,187,Miller,Gina,25,Caucasian,CA,Kern,79,1985,1991,6,31,25,56,
+0.877385218,188,Hebshie,James,55,Caucasian,F-MA,,15,2006,2011,5,60,5,65,
+0.516878858,189,Kelly,Donald,26,Caucasian,PA,Cambria,66,1990,1993,3,29,23,52,
+0.098906733,190,Alexander,John Randall,22,Caucasian,MS,Panola,79,1989,2010,21,43,6,49,
+0.614918416,191,Aldridge,Robert,24,Caucasian,OH,Montgomery,67,1985,1997,12,36,19,55,
+0.385474664,192,McCrimmon,Christopher,20,Black,AZ,Pima,75,1993,1997,4,24,19,43,
+0.731695429,193,Covender,Joel,26,Caucasian,OH,Lorain,32.5,1996,2014,18,44,2,46,
+0.437799556,194,Wilcox,Jennifer,20,Caucasian,OH,Montgomery,72,1985,1997,12,32,19,51,
+0.656884914,195,"Clay, Sr.",David,37,Black,MO,St. Louis,79,1988,1999,11,48,17,65,
+0.131452734,196,Johnston,Dale,49,Caucasian,OH,Hocking,77,1984,1990,6,55,26,81,
+0.497983616,197,Porter,Kerry,34,Black,KY,Jefferson,60,1998,2011,13,47,5,52,DNA
+0.647704103,198,Spencer,Clyde Ray,37,Caucasian,WA,Clark,60,1985,2010,25,62,6,68,
+0.290637303,199,Truvia,Earl,17,Black,LA,Orleans,75,1976,2003,27,44,13,57,
+0.958802379,200,Bright,Dan L.,35,Black,LA,Orleans,56,1996,2004,8,43,12,55,
+0.849663312,201,Miles,Richard,19,Black,TX,Dallas,60,1995,2012,17,36,4,40,
+0.169612509,202,Jones,Jerry Jamaal,24,Black,WI,Rock,2,2010,2011,1,25,5,30,
+0.180093297,203,Prince,Christopher E.,18,Black,VA,Culpeper,9,1994,1995,1,19,21,40,
+0.670779965,204,Sanchez,Isauro,20,Hispanic,IL,Cook,78,1982,1991,9,29,25,54,
+0.635348263,205,Larsen,Daniel,30,Caucasian,CA,Los Angeles,63,1999,2014,15,45,2,47,
+0.170706503,206,Chance,Clarence,23,Black,CA,Los Angeles,76,1975,1992,17,40,24,64,
+0.123462037,207,Carabajal,Joey,25,Hispanic,TX,Williamson,2,2013,2014,1,26,2,28,
+0.312540652,208,Treadway,Clinton,21,Caucasian,FL,Polk,10,2006,2012,6,27,4,31,
+0.180548809,209,Peterson,Larry,36,Black,NJ,Burlington,75,1989,2006,17,53,10,63,DNA
+0.186895324,210,Washington,Earl,22,Black,VA,Culpeper,78,1984,2000,16,38,16,54,DNA
+0.655418812,211,Woodley,Collin,30,Caucasian,NY,Suffolk,15,1990,1998,8,38,18,56,
+0.159851124,212,Harris,Gerald,23,Black,NY,Queens,13.5,1992,2000,8,31,16,47,
+0.500616116,213,Smith,Jon Keith,17,Black,MO,Jackson,78,1987,2000,13,30,16,46,
+0.43128812,214,Edmonds,Tyler,13,Caucasian,MS,Oktibbeha,80,2004,2008,4,17,8,25,
+0.461413616,215,Everett,Harold,65,Caucasian,WA,Chelan,23,1994,1998,4,69,18,87,
+0.663186165,216,Burgess,Sabein,24,Black,MD,Baltimore City,80,1995,2014,19,43,2,45,
+0.656318793,217,Moore,Clarence,36,Black,NJ,Atlantic,76,1987,2006,19,55,10,65,
+0.616593726,218,Pejcinovic,Adam,19,Caucasian,NY,Bronx,6,1988,1993,5,24,23,47,
+0.091313796,219,Stewart,Arthur,35,Black,NY,Queens,10.5,1995,2001,6,41,15,56,
+0.357612708,220,Kordonowy,Paul D.,24,Caucasian,MT,Richland,30,1990,2003,13,37,13,50,DNA
+0.713480933,221,Noel,Michael,55,Black,TX,Harris,0.02739726,2014,2014,0,55,2,57,
+0.889032746,222,Sanders,Trina,49,Black,TX,Galveston,2,2014,2015,1,50,1,51,
+0.201931556,223,McClaugherty,Charles,18,Caucasian,NM,Bernalillo,78,2001,2008,7,25,8,33,
+0.107897351,224,Faria,Russell,41,Caucasian,MO,Lincoln,75,2013,2015,2,43,1,44,
+0.327776075,225,Clark,Carey,37,Caucasian,NC,Avery,63,1996,1998,2,39,18,57,
+0.293627131,226,McCaughn,Patrick,25,Caucasian,IL,Lake,12,1996,1999,3,28,17,45,
+0.475449606,227,McCord,Todd,21,Black,NY,Queens,60,1987,1994,7,28,22,50,
+0.084064451,228,Tucker,David,28,Black,MI,Wayne,8,1992,1999,7,35,17,52,
+0.955050506,229,Long,Lee,34,Black,NY,Queens,16,1995,2002,7,41,14,55,
+0.580512461,230,Engberg-Lehmer,Teresa,24,Caucasian,IA,Pottawattamie,15,1997,1998,1,25,18,43,
+0.081124873,231,Williams,James Curtis,25,Black,TX,Dallas,77,1984,2012,28,53,4,57,DNA
+0.810147666,232,Julian,Billy,20,Caucasian,IN,Madison,15,2003,2010,7,27,6,33,
+0.109320791,233,Allen,Billy Frederick,37,Caucasian,TX,Dallas,55,1983,2011,28,65,5,70,
+0.441463915,234,Knupp,Richard,40,Caucasian,NY,Ontario,26,1989,1992,3,43,24,67,
+0.023648815,235,Loyd,Courtney,32,Black,TX,Harris,0.5,2014,2015,1,33,1,34,
+0.610922291,236,Cruz,Robert,33,Hispanic,AZ,Maricopa,63,1981,1995,14,47,21,68,
+0.067797641,237,Blair,Michael,23,Caucasian,TX,Collin,67,1994,2008,14,37,8,45,DNA
+0.39034078,238,Kennedy,Thomas,32,Caucasian,WA,Cowlitz,15,2002,2012,10,42,4,46,
+0.984458603,239,Durham,Timothy,28,Caucasian,OK,Tulsa,70,1993,1997,4,32,19,51,DNA
+0.654038775,240,McClendon,Robert,34,Black,OH,Franklin,46,1991,2008,17,51,8,59,DNA
+0.028086849,241,Reynolds,Donald,20,Black,IL,Cook,69,1988,1997,9,29,19,48,DNA
+0.727203476,242,Johnson,Calvin Crawford,25,Black,GA,Clayton,70,1983,1999,16,41,17,58,DNA
+0.868910979,243,"LaBolt, Jr.",William,42,Caucasian,NY,Broome,4.5,1990,1994,4,46,22,68,
+0.649770741,244,Cerrano,Dennis,46,Caucasian,CA,Solano,6,1998,2000,2,48,16,64,
+0.606731805,245,Pitts,Marcella,29,Caucasian,CA,Kern,71,1985,1991,6,35,25,60,
+0.710837958,246,Delmore,Larry,22,Black,LA,Jefferson,71,1993,2010,17,39,6,45,
+0.252200562,247,Washington,Calvin E.,30,Black,TX,McLennan,66,1987,2001,14,44,15,59,DNA
+0.768200915,248,Boyette,Calvin,19,Black,NY,Kings,18.5,1984,2001,17,36,15,51,
+0.487302585,249,"Williams, Jr.",Larry,16,Black,NC,Buncombe,10,2002,2015,13,29,1,30,DNA
+0.69736153,250,Montgomery,Carl,44,Caucasian,IL,Moultrie,7,1984,1989,5,49,27,76,
+0.607680653,251,Phillips,Michael,32,Black,TX,Dallas,12,1990,2014,24,56,2,58,DNA
+0.405025862,252,Snipes,Steven,35,Black,NC,Lee,7.5,1998,2003,5,40,13,53,
+0.387939815,253,Vasquez,William,34,Black,NY,Kings,49,1981,2015,34,68,1,69,
+0.611394426,254,Isbell,Teddy,35,Black,NC,Buncombe,3,2003,2015,12,47,1,48,DNA
+0.18685569,255,Branch,Lamont,23,Black,NY,Kings,25,1990,2002,12,35,14,49,
+0.524797056,256,Wilcoxson,Robert,21,Black,NC,Buncombe,13.5,2002,2011,9,30,5,35,DNA
+0.551230553,257,Lemus,David,22,Hispanic,NY,New York,48,1992,2007,15,37,9,46,
+0.486518044,258,Hubbard,Donna Sue,30,Caucasian,CA,Kern,80,1985,1995,10,40,21,61,
+0.378673091,259,Martin,Kevin,17,Black,DC,,49,1984,2014,30,47,2,49,DNA
+0.022777288,260,Maldonado,Robert,20,Black,NY,Bronx,12,1998,2004,6,26,12,38,
+0.283291435,261,Harrison,Clarence,27,Black,GA,DeKalb,78,1987,2004,17,44,12,56,DNA
+0.587611345,262,Connor,Matthew,41,Black,PA,Philadelphia,67,1980,1990,10,51,26,77,
+0.092503515,263,Johnson,Larry,30,Black,MO,St. Louis City,62,1984,2002,18,48,14,62,DNA
+0.253530588,264,Thompson,Hubert,27,Black,CT,Hartford,12,1998,2012,14,41,4,45,DNA
+0.98357941,265,Hill,Dartangnan,25,Black,OH,Franklin,24,2001,2005,4,29,11,40,
+0.328104586,266,Wise,Korey,16,Black,NY,New York,10,1990,2002,12,28,14,42,DNA
+0.369759994,267,Kamienski,Paul,35,Caucasian,NJ,Ocean,75,1988,2010,22,57,6,63,
+0.612613816,268,Richardson,Julie,44,Caucasian,CA,San Diego,1,1999,2001,2,46,15,61,
+0.96429707,269,Britt,Cheydrick,29,Black,FL,Hillsborough,30,2004,2013,9,38,3,41,DNA
+0.027642306,270,Johnson,Bobby,16,Black,CT,New Haven,38,2007,2015,8,24,1,25,
+0.194689805,271,Gressman,Jed Allen,22,Caucasian,UT,Juab,42,1993,1996,3,25,20,45,DNA
+0.96639785,272,Goldstein,Thomas Lee,30,Caucasian,CA,Los Angeles,26,1980,2004,24,54,12,66,
+0.648996887,273,Escalera,Robert,21,Hispanic,NY,Kings,20,1976,1990,14,35,26,61,
+0.954859166,274,Toney,Steven,35,Black,MO,St. Louis,74,1983,1996,13,48,20,68,DNA
+0.99354028,275,Herrera,Moses,18,Hispanic,TX,Denton,7,1990,1992,2,20,24,44,
+0.88563955,276,Phillips,Steven,22,Caucasian,TX,Dallas,40,1982,2008,26,48,8,56,DNA
+0.251535202,277,Elkins,Clarence,35,Caucasian,OH,Summit,55,1999,2005,6,41,11,52,DNA
+0.064385198,278,Charles,Clyde,26,Black,LA,Terrebonne,65,1982,1999,17,43,17,60,DNA
+0.212274968,279,Williams,Hayes,19,Black,LA,Orleans,72,1968,1997,29,48,19,67,
+0.972941234,280,Hannan,Ahmed,32,Other,F-MI,(Eastern),5,2003,2004,1,33,12,45,
+0.139715117,281,Thompson,John,22,Black,LA,Orleans,73,1985,2003,18,40,13,53,
+0.2416392,282,Ruffin,Julius,28,Black,VA,Norfolk City,71,1982,2003,21,49,13,62,DNA
+0.933540873,283,Faulkner,Kenneth,39,Caucasian,CA,Kern,54,2000,2003,3,42,13,55,
+0.036651417,284,Duval,John,21,Black,NY,Monroe,26,1973,2000,27,48,16,64,
+0.603533842,285,Patrick,Deon,20,Black,IL,Cook,74,1995,2014,19,39,2,41,
+0.691267364,286,Simmons,Lawrence,19,Black,NJ,Passaic,75,1977,2000,23,42,16,58,
+0.080985176,287,Green,Lafayette,38,Black,FL,Palm Beach,11,1996,1997,1,39,19,58,
+0.344244605,288,Roberts,Lisa,37,Black,OR,Multnomah,15,2004,2014,10,47,2,49,DNA
+0.938745415,289,Davis,Donya,28,Black,MI,Wayne,22,2007,2014,7,35,2,37,DNA
+0.935044482,290,Chavez,Moses,22,Caucasian,TX,Harris,45,2014,2014,0,22,2,24,
+0.288822507,291,Fappiano,Scott,21,Caucasian,NY,Kings,35,1985,2006,21,42,10,52,DNA
+0.039449461,292,Karage,Entre Nax,21,Asian,TX,Dallas,69,1997,2005,8,29,11,40,DNA
+0.574375935,293,McAlister,Michael,29,Caucasian,VA,Richmond City,35,1986,2015,29,58,1,59,
+0.928871752,294,Pineda,Lisa,26,Hispanic,CA,Los Angeles,73,2005,2009,4,30,7,37,
+0.079193393,295,Pardue,Michael,17,Caucasian,AL,Baldwin,79,1973,1997,24,41,19,60,
+0.481511952,296,Loftus,Brendan,23,Caucasian,CA,Lake,5,1997,2000,3,26,16,42,
+0.176860443,297,Canen,Lana,43,Caucasian,IN,Elkhart,55,2005,2012,7,50,4,54,
+0.793433301,298,Vera,John,20,Hispanic,NY,Kings,12,1995,2000,5,25,16,41,
+0.955009358,299,Galicia,Luis,21,Hispanic,CA,San Diego,30,2008,2011,3,24,5,29,
+0.860996273,300,Frye,Ralph,21,Caucasian,IL,Iroquois,23,1989,1996,7,28,20,48,
+0.380933829,301,Lisker,Bruce,17,Caucasian,CA,Los Angeles,29,1985,2009,24,41,7,48,
+0.381971493,302,Salazar,Ben,23,Hispanic,TX,Travis,30,1992,1997,5,28,19,47,DNA
+0.069194868,303,Foster,Demetrius,24,Black,MI,Wayne,41,2000,2014,14,38,2,40,
+0.155414634,304,Seri,Michael Caesar,42,Caucasian,CT,Fairfield,2.2,2001,2003,2,44,13,57,
+0.911214455,305,King,Susan,38,Caucasian,KY,Spencer,10,2008,2014,6,44,2,46,
+0.140931524,306,Ireland,Kenneth,16,Caucasian,CT,New Haven,50,1989,2009,20,36,7,43,DNA
+0.651126131,307,Ellison,Jason,23,Caucasian,KS,Douglas,23,2006,2011,5,28,5,33,
+0.889276932,308,Thorn,Michael,46,Caucasian,MI,Branch,5,1995,1999,4,50,17,67,
+0.646965687,309,Kittler,Eric,15,Black,IL,Cook,35,1999,2002,3,18,14,32,
+0.936609478,310,Perez,Carlos,25,Hispanic,NY,Bronx,62,1997,2012,15,40,4,44,
+0.068280709,311,Chatmon,Timothy,30,Black,IL,Winnebago,35,1990,1995,5,35,21,56,
+0.927182044,312,Hudson,Larry,19,Black,LA,Orleans,79,1967,1993,26,45,23,68,
+0.942201974,313,Khatibi,Kian,22,Caucasian,NY,Westchester,10.5,1999,2008,9,31,8,39,
+0.392227711,314,"Cox, Sr.",Terry,27,Caucasian,IA,Woodbury,25,1997,2001,4,31,15,46,
+0.94548035,315,Shabazz,Omar,27,Black,NY,New York,8,2008,2014,6,33,2,35,
+0.873932382,316,Bridgeman,Wiley,20,Black,OH,Cuyahoga,71,1975,2014,39,59,2,61,
+0.531058829,317,Brock,Jerry,35,Black,WA,Thurston,67,1995,2014,19,54,2,56,
+0.761773947,318,Kelly,Robert,40,Caucasian,NC,Chowan,69,1992,1997,5,45,19,64,
+0.480319167,319,Sarita,Danny,25,Hispanic,NY,New York,4,2009,2012,3,28,4,32,
+0.782564974,320,Dilosa,Douglas,35,Caucasian,LA,Jefferson,79,1987,2003,16,51,13,64,
+0.853599845,321,Hall,Harold,37,Black,CA,Los Angeles,59,1990,2004,14,51,12,63,
+0.890218433,322,Kittilstad,Richard L.,50,Caucasian,WI,Eau Claire,10,2001,2007,6,56,9,65,
+0.894046118,323,McCuan,Deborah,25,Caucasian,CA,Kern,80,1984,1996,12,37,20,57,
+0.049315949,324,Ollins,Larry,16,Black,IL,Cook,78,1988,2001,13,29,15,44,DNA
+0.057046835,325,Lopez,William,30,Hispanic,NY,Kings,35,1990,2014,24,54,2,56,
+0.122788479,326,Paradis,Donald,30,Caucasian,ID,Kootenai,79,1981,2001,20,50,15,65,
+0.58495246,327,Slade,Parrish,21,Black,NC,Moore,80,1989,2012,23,44,4,48,
+0.124361633,328,Kluppelberg,James,18,Caucasian,IL,Cook,75,1989,2012,23,41,4,45,
+0.02909335,329,Cunningham,Connie,43,Caucasian,WA,Chelan,46,1994,1997,3,46,19,65,
+0.473893328,330,Lomax,Walter,20,Black,MD,Baltimore City,76,1968,2014,46,66,2,68,
+0.632679989,331,Howard,Timothy,23,Black,OH,Franklin,69,1977,2003,26,49,13,62,
+0.540663704,332,Wynn,Morris,21,Caucasian,IL,Cook,8,2005,2006,1,22,10,32,
+0.698141628,333,Wilson,Kathryn Dawn,22,Caucasian,NC,Chowan,71,1993,1997,4,26,19,45,
+0.419462373,334,Westbrooks,Lashane,29,Black,NY,Kings,3.5,2007,2007,0,29,9,38,
+0.757322085,335,Nowacki,Michael,57,Caucasian,CT,Fairfield,1.25,2012,2015,3,60,1,61,
+0.650725475,336,Caravella,Anthony,15,Caucasian,FL,Broward,75,1984,2010,26,41,6,47,DNA
+0.70239801,337,White,Michael,35,Native American,NY,Erie,5,2006,2015,9,44,1,45,DNA
+0.104477559,338,"Silva, Sr.",Juan,43,Hispanic,WI,Milwaukee,5,2014,2015,1,44,1,45,
+0.724276641,339,Baruxes,Kevin,18,Caucasian,CA,San Diego,26,1996,2003,7,25,13,38,
+0.896706828,340,Ashe,Carlos,18,Black,CT,New Haven,80,2000,2013,13,31,3,34,
+0.257727397,341,Martel,Clayton,32,Black,TX,Harris,0.082191781,2013,2015,2,34,1,35,
+0.177777015,342,Gersten,Ben,48,Caucasian,NY,Nassau,56.25,1999,2006,7,55,10,65,
+0.965884132,343,Day,Lee Antione,28,Black,IL,Cook,60,1992,2002,10,38,14,52,
+0.28977272,344,O'Donnell,James,32,Caucasian,NY,Richmond,5,1998,2000,2,34,16,50,DNA
+0.818346364,345,Veltmann,Christopher,35,Caucasian,F-FL,(Middle),60,1992,1996,4,39,20,59,
+0.006495648,346,Vamvakas,Evangelo,43,Caucasian,NY,Queens,6.5,1994,1996,2,45,20,65,
+0.495577357,347,McCallum,David,16,Black,NY,Kings,61,1986,2014,28,44,2,46,DNA
+0.962755868,348,Guce,Teobaldo,42,Asian,NY,Queens,6,1987,1992,5,47,24,71,
+0.763071648,349,"Girdler, Jr.",Ray,36,Caucasian,AZ,Yavapai,76,1982,1991,9,45,25,70,
+0.368939067,350,McMillan,Clark Jerome,22,Black,TN,Shelby,77,1980,2002,22,44,14,58,DNA
+0.521390341,351,Morton,Michael,32,Caucasian,TX,Williamson,70,1987,2011,24,56,5,61,DNA
+0.361217334,352,Gassman,Tyler W.,21,Caucasian,WA,Spokane,26,2009,2013,4,25,3,28,
+0.839823574,353,Mitchell,Charlie,34,Black,MI,Wayne,12.5,1989,2006,17,51,10,61,
+0.864486872,354,Bolstad,Daniel,37,Caucasian,WI,La Crosse,20,2007,2015,8,45,1,46,
+0.303151488,355,Erby,Lonnie,31,Black,MO,St. Louis City,70,1986,2003,17,48,13,61,DNA
+0.366454896,356,Allen,Donovan,18,Caucasian,WA,Cowlitz,75,2002,2015,13,31,1,32,DNA
+0.442345204,357,Lape,Michael Bruce,27,Caucasian,TX,Montgomery,25,2012,2013,1,28,3,31,
+0.310830161,358,Houston,Darrell,23,Black,OH,Cuyahoga,55,1992,2010,18,41,6,47,
+0.53016578,359,Barbour,Bennett,22,Black,VA,James City,10,1978,2012,34,56,4,60,DNA
+0.313885034,360,Jones,Morris S.,16,Black,TX,Dallas,15,1998,2001,3,19,15,34,
+0.665338181,361,Brown,Roy,29,Caucasian,NY,Cayuga,59,1992,2007,15,44,9,53,DNA
+0.474105744,362,Woodworth,Mark,16,Caucasian,MO,Livingston,31,1995,2014,19,35,2,37,
+0.041235904,363,Pavel,Kenneth,41,Caucasian,NY,Onondaga,16,1989,2001,12,53,15,68,
+0.668390837,364,Tyson,Betty,24,Black,NY,Monroe,63,1973,1998,25,49,18,67,
+0.580309982,365,Whitlock,Herbert,39,Caucasian,IL,Edgar,70,1987,2008,21,60,8,68,
+0.446993469,366,Bledsoe,Earnest,26,Black,TX,Harris,0.164383562,2008,2015,7,33,1,34,
+0.125033436,367,Dinning,Jack,38,Caucasian,GA,Rabun,77,1993,1997,4,42,19,61,
+0.033369903,368,Deckinga,Shaun,26,Caucasian,F-MN,,10,1993,1993,0,26,23,49,
+0.15230311,369,House,Roger,35,Black,F-MIL,,78,2002,2009,7,42,7,49,
+0.455761501,370,Fuentes,Israel,19,Hispanic,TX,Montgomery,5,2013,2013,0,19,3,22,
+0.477832833,371,Brown,Charlotte,32,Black,TX,Harris,6,2011,2012,1,33,4,37,
+0.159415928,372,Sturgeon,Michael,16,Caucasian,WI,Walworth,0.3,1997,2000,3,19,16,35,
+0.051384728,373,Jones,Levon Junior,28,Black,NC,Duplin,80,1993,2008,15,43,8,51,
+0.481247334,374,Ortiz,Juan,44,Hispanic,CA,Los Angeles,5,2005,2010,5,49,6,55,
+0.211830577,375,Warner,Colin,18,Black,NY,Kings,48,1982,2001,19,37,15,52,
+0.790821178,376,Crawford,Steven,14,Black,PA,Dauphin,79,1974,2002,28,42,14,56,
+0.637878772,377,Thomas,Teresa,29,Black,OH,Athens,54,1993,1997,4,33,19,52,
+0.756470587,378,Jackson,Raymond,38,Black,TX,Dallas,65,1984,2012,28,66,4,70,DNA
+0.186146591,379,Laughman,Barry,24,Caucasian,PA,Adams,78,1988,2004,16,40,12,52,DNA
+0.799637396,380,Collins,Jabbar,20,Black,NY,Kings,58,1995,2010,15,35,6,41,
+0.909941165,381,Hales,Warren,25,Caucasian,UT,Salt Lake,39,2004,2007,3,28,9,37,
+0.30309522,382,Wiley,Kelvin,29,Black,CA,San Diego,4,1990,1992,2,31,24,55,
+0.239684262,383,Embry,Anthony,23,Black,AL,Jefferson,20,1993,1997,4,27,19,46,
+0.627479159,384,McCray,Antron,14,Black,NY,New York,7.5,1990,2002,12,26,14,40,DNA
+0.593681155,385,Fleming,Jonathan,27,Black,NY,Kings,60,1990,2014,24,51,2,53,
+0.942492897,386,Ross,Anthony,21,Black,IL,Winnebago,50,2004,2015,11,32,1,33,
+0.298483823,387,Sturgeon,Richard,32,Black,TX,Harris,50,1999,2009,10,42,7,49,
+0.488783402,388,Thomas,Rickey Dale,25,Black,TX,Hopkins,78,1992,1993,1,26,23,49,
+0.968174616,389,Santos,Edar Duarte,26,Hispanic,IL,Cook,12,2002,2003,1,27,13,40,
+0.113533848,390,Kimsey,Martin,45,Caucasian,TX,Dallas,65,1985,1990,5,50,26,76,
+0.293844505,391,Nickerson,Glen,29,Caucasian,CA,Santa Clara,65,1987,2003,16,45,13,58,DNA
+0.854937131,392,Hidalgo,Olmedo,24,Hispanic,NY,New York,51,1992,2005,13,37,11,48,
+0.446041978,393,Morse,Barney,61,Caucasian,MT,Anaconda,5,2013,2015,2,63,1,64,
+0.281949975,394,Gonzalez,Kathy,24,Hispanic,NE,Gage,10,1989,2009,20,44,7,51,DNA
+0.521668647,395,Blake,Bryan,22,Caucasian,NY,New York,52,1985,1989,4,26,27,53,
+0.799899731,396,Triplett,Eddie,38,Black,LA,Orleans,80,1998,2011,13,51,5,56,
+0.676766256,397,DeAngelo,Angel M.,26,Hispanic,F-NY,(Eastern),78,2003,2004,1,27,12,39,
+0.318013771,398,Lee,Ah,20,Asian,PA,Philadelphia,75,1988,2004,16,36,12,48,
+0.145767054,399,Newburn,Calvin,26,Black,CA,Los Angeles,7,1997,1999,2,28,17,45,
+0.449508237,400,Copeland,Darrell A.,18,Black,VA,Cecil,5,2007,2008,1,19,8,27,
+0.939813299,401,Massingill,Anthony,18,Black,TX,Dallas,77,1980,2014,34,52,2,54,DNA
+0.563748436,402,Dewey,Robert,33,Caucasian,CO,Mesa,77,1996,2012,16,49,4,53,DNA
+0.030330788,403,Hicks,Tyrone,41,Black,NY,Bronx,8,2000,2014,14,55,2,57,DNA
+0.590555368,404,Simon,Alstory,32,Black,IL,Cook,37,1999,2014,15,47,2,49,
+0.262955943,405,Ellis,Bernard,26,Black,IL,Cook,55,1996,2001,5,31,15,46,
+0.306930378,406,Edwards,James,44,Black,IL,Lake,56,1996,2012,16,60,4,64,DNA
+0.645778548,407,Peterson,Kevin,32,Caucasian,UT,Weber,8,1990,2012,22,54,4,58,
+0.902601051,408,Thurman,Joe,29,Caucasian,TX,Harris,2,2014,2014,0,29,2,31,
+0.532116502,409,Buckley,Gyronne,44,Black,AR,Clark,65,1999,2010,11,55,6,61,
+0.26448895,410,Rivera,Juan,19,Hispanic,IL,Lake,72,1993,2012,19,38,4,42,DNA
+0.909266349,411,Hall,Erin,35,Caucasian,F-WI,(Eastern),0.166666667,2011,2014,3,38,2,40,
+0.121530303,412,Thomas,Donnell,22,Black,NY,Suffolk,17,2007,2011,4,26,5,31,
+0.580159056,413,Cullipher,Ricky,15,Caucasian,VA,Hampton,9,1997,2001,4,19,15,34,
+0.904754565,414,Bass,Jimmy,18,Black,MS,Bolivar,50,1988,2010,22,40,6,46,
+0.470683041,415,Meyers,Terrence,21,Black,LA,Jefferson,80,1993,2010,17,38,6,44,
+0.529393478,416,Town,Meredith,36,Caucasian,WA,Chelan,20,1994,2000,6,42,16,58,
+0.617887145,417,Medina,Alarico Joe,25,Hispanic,CO,Denver,71,1991,1995,4,29,21,50,
+0.464967201,418,Banks,Brian,16,Black,CA,Los Angeles,6,2003,2012,9,25,4,29,
+0.675025117,419,Credell,Cory,27,Black,SC,Orangeburg,65,2001,2012,11,38,4,42,
+0.875063909,420,Bowman,James,18,Black,MO,Jackson,77,1986,2001,15,33,15,48,
+0.074124988,421,Rainbolt,Thomas,51,Black,TX,Harris,45,2014,2014,0,51,2,53,
+0.457771705,422,Sorrels,Ross,44,Caucasian,WA,Clark,10,1995,2003,8,52,13,65,
+0.103997641,423,Scott,Christopher Shun,27,Black,TX,Dallas,67,1997,2009,12,39,7,46,
+0.880306141,424,Callace,Leonard,30,Caucasian,NY,Suffolk,37.5,1987,1992,5,35,24,59,DNA
+0.264060885,425,Connor,Reginald,23,Black,NY,Kings,18.75,1993,2015,22,45,1,46,DNA
+0.52445567,426,Thompson,Terrance,36,Black,IL,Cook,8,2003,2006,3,39,10,49,
+0.535514807,427,Williams,Michael,31,Black,LA,Jefferson,74,1997,2011,14,45,5,50,
+0.266581054,428,Waters,Leo,30,Caucasian,NC,Onslow,63,1982,2003,21,51,13,64,DNA
+0.483820572,429,"Simmons, Jr.",Claude,42,Black,TX,Dallas,65,1997,2009,12,54,7,61,
+0.426608488,430,Thurman,Philip Leon,29,Black,VA,Arlington,31,1985,2005,20,49,11,60,DNA
+0.118559775,431,Coco,Allen,26,Black,LA,Calcasieu,72,1997,2006,9,35,10,45,DNA
+0.842227776,432,"Flores, Jr.",Ernesto,23,Hispanic,TX,Hidalgo,2,2004,2015,11,34,1,35,
+0.471513608,433,Hairston,Kim,32,Black,OH,Franklin,63,1993,1995,2,34,21,55,
+0.624351919,434,Swift,Rubin,32,Black,PA,Erie,44,2009,2012,3,35,4,39,
+0.544834942,435,Henly,Brock,44,Black,OH,Franklin,0.246575342,2003,2007,4,48,9,57,
+0.037552136,436,Johnson,Albert K.,30,Black,CA,Contra Costa,24,1992,2002,10,40,14,54,DNA
+0.006795486,437,Jones,Troy Lee,30,Black,CA,Merced,76,1982,1996,14,44,20,64,
+0.305467969,438,Bozella,Dewey,16,Black,NY,Dutchess,33,1983,2009,26,42,7,49,
+0.857601426,439,Sommer,Cynthia,32,Caucasian,CA,San Diego,61,2007,2008,1,33,8,41,
+0.325675969,440,Bloodsworth,Kirk,23,Caucasian,MD,Baltimore,69,1985,1993,8,31,23,54,DNA
+0.824648261,441,Holland,Dana,25,Black,IL,Cook,28,1995,2003,8,33,13,46,DNA
+0.219075682,442,Reno,Ronald,32,Caucasian,CA,Fresno,57,1997,2002,5,37,14,51,
+0.509486851,443,Ayers,David,42,Black,OH,Cuyahoga,79,2000,2011,11,53,5,58,DNA
+0.331524537,444,Mengloi,Mary,30,Caucasian,FL,Palm Beach,2.5,1990,1993,3,33,23,56,
+0.631738626,445,Montoya,Lorenzo,14,Hispanic,CO,Denver,77,2000,2014,14,28,2,30,DNA
+0.781511606,446,Leal-Del Carmen,Jonathan,44,Hispanic,F-CA,(Southern),1.5,2010,2012,2,46,4,50,
+0.358557259,447,Lewis,George,28,Black,MN,Hennepin,12,1988,1991,3,31,25,56,
+0.531863416,448,Coker,Edgar,15,Black,VA,Stafford,1.5,2007,2014,7,22,2,24,
+0.477563655,449,Lind,Frank,44,Caucasian,CA,Fresno,58,2002,2005,3,47,11,58,
+0.677267667,450,Terry,Antoine,17,Black,MO,Cole,7,2008,2010,2,19,6,25,DNA
+0.460328561,451,Nelson,Bruce,24,Black,PA,Allegheny,75,1982,1991,9,33,25,58,DNA
+0.672702121,452,Peters,Harold,39,Black,TX,Harris,0.583333333,2014,2014,0,39,2,41,
+0.727877513,453,Restivo,John,25,Caucasian,NY,Nassau,33,1986,2005,19,44,11,55,DNA
+0.849728316,454,Manning,Warren Douglas,30,Black,SC,Dillon,63,1989,1999,10,40,17,57,
+0.8516707,455,Barnes,Steven,19,Caucasian,NY,Oneida,25,1989,2009,20,39,7,46,DNA
+0.220476638,456,Gray,David A.,25,Black,IL,Madison,60,1978,1999,21,46,17,63,DNA
+0.584101361,457,Cosme,Michael,19,Black,NY,Bronx,41,1997,2012,15,34,4,38,
+0.258188724,458,Leverett,Ron,29,Black,GA,Hart,3,1993,1994,1,30,22,52,
+0.489794995,459,Swenson,Nathaniel,21,Black,KS,Sedgwick,16,2000,2013,13,34,3,37,
+0.87672015,460,Kniffen,Brenda,29,Caucasian,CA,Kern,69,1984,1996,12,41,20,61,
+0.918258272,461,Smith,Steven,37,Black,IL,Cook,77,1986,1999,13,50,17,67,
+0.810399267,462,Tankleff,Martin,17,Caucasian,NY,Suffolk,53,1990,2008,18,35,8,43,
+0.034937132,463,Moon,Brandon,26,Caucasian,TX,El Paso,75,1988,2005,17,43,11,54,DNA
+0.393310489,464,Chumley,Tom Edwin,52,Caucasian,GA,Columbia,60,2005,2009,4,56,7,63,
+0.091746906,465,McKinney,Lawrence,22,Black,TN,Shelby,100,1978,2009,31,53,7,60,DNA
+0.555046208,466,McCollum,Claude,26,Black,MI,Ingham,77,2006,2007,1,27,9,36,
+0.727426804,467,Hooper,John,48,Black,NY,Kings,1,2013,2015,2,50,1,51,
+0.186293087,468,Pettiford,Antoine,23,Black,MD,Baltimore,78,1995,2000,5,28,16,44,
+0.125642884,469,McClain,Anthony,35,Black,OH,Hamilton,30,1995,2006,11,46,10,56,
+0.578564573,470,Booker,Donte,18,Black,OH,Cuyahoga,17.5,1987,2005,18,36,11,47,DNA
+0.803348632,471,Harrington,Terry,17,Black,IA,Pottawattamie,79,1978,2003,25,42,13,55,
+0.231076512,472,Ruiz Cortez,Refugio,29,Hispanic,F-IL,(Northern),17.5,1999,2010,11,40,6,46,
+0.436683458,473,Aldape Guerra,Ricardo,20,Hispanic,TX,Harris,72,1982,1997,15,35,19,54,
+0.919755183,474,Hobley,Madison,26,Black,IL,Cook,69,1990,2003,13,39,13,52,
+0.79560615,475,Algarin,Albert,21,Hispanic,NY,Bronx,37.5,1985,1990,5,26,26,52,
+0.512932732,476,Hornoff,Jeffrey Scott,26,Caucasian,RI,Kent,80,1996,2003,7,33,13,46,
+0.242021402,477,Walker,William,36,Black,OH,Stark,3,2002,2005,3,39,11,50,
+0.929448372,478,Holemon,Jeffrey,23,Caucasian,AL,Tuscaloosa,67,1988,1999,11,34,17,51,DNA
+0.751492327,479,Dake,Jeffrey,27,Caucasian,WI,Langlade,16,1998,2007,9,36,9,45,
+0.254034719,480,Felder,Lance,16,Black,PA,Philadelphia,79,1998,2014,16,32,2,34,
+0.251256205,481,Gibson,Roland,20,Black,LA,Orleans,75,1968,1993,25,45,23,68,
+0.947417196,482,Coney,Robert Carroll,33,Black,TX,Angelina,63,1966,2004,38,71,12,83,
+0.767944206,483,Lemons,Anthony,19,Black,OH,Cuyahoga,61,1995,2014,19,38,2,40,
+0.256728836,484,Golden,Andrew,45,Caucasian,FL,Polk,46,1991,1994,3,48,22,70,
+0.88700515,485,Quezada,Ruddy,29,Hispanic,NY,Kings,36,1993,2015,22,51,1,52,
+0.690198873,486,Thomas,Cherice,18,Black,CA,Los Angeles,30,2009,2012,3,21,4,25,
+0.611725809,487,Diaz,Luis,40,Hispanic,FL,Miami-Dade,50,1980,2005,25,65,11,76,DNA
+0.474434207,488,Wells,Harold,24,Black,MI,Wayne,3.25,1992,1993,1,25,23,48,
+0.052988866,489,Baumer,Julie,27,Caucasian,MI,Macomb,12.5,2005,2010,5,32,6,38,
+0.451909829,490,Wyniemko,Kenneth,43,Caucasian,MI,Macomb,50,1994,2003,9,52,13,65,DNA
+0.717364999,491,Isham,Rommain,31,Native American,WI,Douglas,10,1990,2010,20,51,6,57,
+0.874783652,492,Moto,Vincent,22,Black,PA,Philadelphia,18,1987,1996,9,31,20,51,DNA
+0.612503369,493,Taylor,Daniel,17,Black,IL,Cook,79,1995,2013,18,35,3,38,
+0.890684824,494,Lerma,Roumaldo,42,Hispanic,TX,Harris,0.057534247,2014,2015,1,43,1,44,
+0.032916984,495,Neely,Todd,18,Caucasian,FL,Martin,15,1987,1989,2,20,27,47,
+0.481081031,496,McIntyre,Richard,31,Caucasian,ND,Burleigh,0.164383562,1991,1992,1,32,24,56,
+0.683467175,497,Gonzalez,Angel,20,Hispanic,IL,Lake,55,1995,2015,20,40,1,41,DNA
+0.813878644,498,Sandoval-Gonzalez,Gerardo,51,Hispanic,F-CA,(Southern),7,2009,2012,3,54,4,58,
+0.241676123,499,Jackson,Willie,17,Black,LA,Jefferson,40,1989,2006,17,34,10,44,DNA
+0.140888395,500,Dixon,Bobby Ray,22,Black,MS,Forrest,72,1980,2010,30,52,6,58,DNA
+0.49736839,501,Adams,Sean,21,Black,CT,New Haven,71,1999,2013,14,35,3,38,
+0.189734221,502,Love,Corey Anthony,20,Black,TX,Harris,0.575342466,2006,2015,9,29,1,30,
+0.480017367,503,Jones,Elroy Lucky,26,Black,MI,Wayne,71,2006,2014,8,34,2,36,
+0.516364515,504,Andrews,James,21,Black,IL,Cook,70,1985,2008,23,44,8,52,
+0.49805638,505,Pratt,Elmer,21,Black,CA,Los Angeles,29,1972,1999,27,48,17,65,
+0.108900104,506,Porter,Allen Wayne,18,Black,TX,Harris,75,1991,2010,19,37,6,43,
+0.312868366,507,Dominguez,Alejandro,16,Hispanic,IL,Lake,9,1990,2002,12,28,14,42,DNA
+0.396979891,508,Moore,Walter,37,Caucasian,MI,Otsego,62,1988,1996,8,45,20,65,
+0.733132637,509,Watkins,Jerry,26,Caucasian,IN,Hancock,60,1986,2000,14,40,16,56,DNA
+0.422582155,510,"Wright, Jr.",Harold,32,Black,WA,Pierce,0.5,2007,2013,6,38,3,41,
+0.115245115,511,Harris,William,17,Black,WV,Kanawha,15,1987,1995,8,25,21,46,DNA
+0.68531336,512,Shelden,Debra,26,Caucasian,NE,Gage,10,1989,2009,20,46,7,53,DNA
+0.352169882,513,Rainge,Willie,20,Black,IL,Cook,72,1978,1996,18,38,20,58,DNA
+0.702144867,514,Bright,Gregory,20,Black,LA,Orleans,76,1976,2003,27,47,13,60,
+0.719306026,515,Ruby,Donald,39,Caucasian,PA,Perry,63,1987,1993,6,45,23,68,DNA
+0.863563791,516,Domenech,Alfredo,23,Caucasian,PA,Philadelphia,69,1988,2005,17,40,11,51,
+0.135572259,517,Deacon,Derrick,34,Black,NY,Kings,55,1989,2013,24,58,3,61,
+0.801906963,518,Womble,Willie,21,Black,NC,Granville,80,1976,2014,38,59,2,61,
+0.512530792,519,Hernandez,Alejandro,22,Hispanic,TX,El Paso,75,1994,2006,12,34,10,44,
+0.401318923,520,Willoughby,Troy,20,Caucasian,WY,Sublette,80,2010,2012,2,22,4,26,
+0.001028089,521,Orange,Leroy,32,Black,IL,Cook,59,1985,2003,18,50,13,63,
+0.317437333,522,Ayers,Devon,18,Black,NY,Bronx,30,1997,2013,16,34,3,37,
+0.955475378,523,Talamantez,Jesse,20,Hispanic,TX,Harris,78,1999,2004,5,25,12,37,
+0.082871201,524,Adams,Randall D.,28,Caucasian,TX,Dallas,72,1977,1989,12,40,27,67,
+0.049916145,525,Wilson,Theopolis,22,Black,WI,Racine,5,1989,1991,2,24,25,49,
+0.600242442,526,Norton,Roger,49,Caucasian,MA,Hampden,18,1992,2005,13,62,11,73,
+0.186758806,527,Adams,Laurence,19,Black,MA,Suffolk,75,1974,2004,30,49,12,61,
+0.782710645,528,Bunge,Charles,38,Caucasian,NY,Kings,6,2007,2010,3,41,6,47,
+0.975787662,529,Marsh,Kenneth,28,Caucasian,CA,San Diego,31,1983,2004,21,49,12,61,
+0.756531838,530,Vann,Gussie,42,Caucasian,TN,McMinn,60,1994,2011,17,59,5,64,
+0.283426295,531,Villalobos,Amaury,30,Hispanic,NY,Kings,36,1981,2015,34,64,1,65,
+0.579373721,532,Clemmons,Eric,23,Black,MO,Cole,78,1987,2000,13,36,16,52,
+0.946788513,533,Brooks,Gwendolyn,52,Black,TX,Harris,0.5,2010,2014,4,56,2,58,
+0.600348455,534,Vera,Francisco,29,Hispanic,IL,Cook,17,1992,1998,6,35,18,53,
+0.967925697,535,Smith,Christopher C.,32,Caucasian,IN,Henry,38,1991,1993,2,34,23,57,
+0.57711735,536,Harper,Maurice,23,Black,IL,Jackson,25,2002,2007,5,28,9,37,
+0.148283715,537,Cromedy,McKinley,29,Black,NJ,Middlesex,60,1994,1999,5,34,17,51,DNA
+0.751541254,538,Berghoff,Stacey,27,Caucasian,TX,Harris,0.04109589,2014,2014,0,27,2,29,
+0.789983899,539,Moore,Kenneth,45,Caucasian,OH,Pike,45,1995,2004,9,54,12,66,
+0.456361988,540,Jenkins,Jerry Lee,25,Caucasian,MD,Charles,72,1987,2013,26,51,3,54,DNA
+0.217475757,541,Seiber,George,41,Caucasian,OH,Cuyahoga,17.5,1987,1999,12,53,17,70,
+0.622791534,542,Reedy,Davey,32,Caucasian,VA,Roanoke,67,1988,2015,27,59,1,60,
+0.358033002,543,Woods,Anthony,20,Black,MO,St. Louis City,25,1984,2005,21,41,11,52,DNA
+0.551450224,544,"Allen, Jr.",George,25,Black,MO,Cole,73,1983,2013,30,55,3,58,DNA
+0.090084958,545,Garcia,Jose,27,Hispanic,NY,Bronx,42,1993,2007,14,41,9,50,
+0.628715918,546,Greer,Rashawn,21,Black,OK,Tulsa,79,1998,2001,3,24,15,39,
+0.253123332,547,Lantigua,Milton,19,Hispanic,NY,Bronx,41,1993,1996,3,22,20,42,
+0.868260905,548,Doggett,Carol,36,Caucasian,WA,Chelan,10,1995,2000,5,41,16,57,
+0.801540612,549,Jones,Stephen,23,Black,F-MO,(Eastern),20,1998,2010,12,35,6,41,
+0.995472794,550,Rojas,Carlos,34,Hispanic,F-AL,(Southern),20,1990,2002,12,46,14,60,
+0.358216268,551,Diamond,Garry,24,Caucasian,VA,Prince William,15,1977,2013,36,60,3,63,DNA
+0.115890243,552,Cannon,Phillip Scott,32,Caucasian,OR,Polk,64,2000,2009,9,41,7,48,
+0.124907421,553,James,Maurice,27,Black,NY,Monroe,2.25,1990,1992,2,29,24,53,
+0.88403902,554,Strong,Jason,24,Caucasian,IL,Lake,46,2000,2015,15,39,1,40,
+0.697968998,555,Dukes,Jerry,54,Caucasian,TX,Harris,0.666666667,2007,2015,8,62,1,63,
+0.238467032,556,Davidson,Willie,24,Black,VA,Norfolk City,20,1981,2005,24,48,11,59,DNA
+0.800253427,557,Matthews,Ryan,17,Black,LA,Jefferson,78,1999,2004,5,22,12,34,DNA
+0.794985872,558,Merrill,Thomas,24,Caucasian,CA,Orange,67,1991,1995,4,28,21,49,
+0.205564446,559,Stuckey,Willie,16,Black,NY,Kings,56,1986,2014,28,44,2,46,DNA
+0.542123171,560,Hall,Paula,36,Caucasian,MO,Christian,20,2009,2013,4,40,3,43,
+0.626242029,561,Reed,Marvin,33,Black,MI,Wayne,26,2001,2009,8,41,7,48,
+0.310341618,562,Anderson,Mark,51,Caucasian,HI,Maui,0.024657534,2011,2014,3,54,2,56,
+0.327021738,563,Johnson,Arthur,33,Black,MS,Sunflower,55,1993,2008,15,48,8,56,DNA
+0.405392976,564,Lavernia,Carlos Marcos,29,Hispanic,TX,Travis,69,1985,2000,15,44,16,60,DNA
+0.91444638,565,Batts,Rosa Sade,25,Black,TX,Harris,2,2012,2013,1,26,3,29,
+0.491691295,566,Vasquez,Michael,40,Hispanic,NY,New York,29,1997,2012,15,55,4,59,
+0.295731155,567,Hash,Michael,15,Caucasian,VA,Culpeper,75,2001,2012,11,26,4,30,
+0.888763763,568,Fain,Charles,33,Caucasian,ID,Canyon,64,1983,2001,18,51,15,66,DNA
+0.943935166,569,Torres,Alfredo,20,Hispanic,F-NM,,5.9,2006,2009,3,23,7,30,
+0.329974963,570,Godschalk,Bruce,25,Caucasian,PA,Montgomery,15,1987,2002,15,40,14,54,DNA
+0.040856513,571,Manning,Willie,24,Black,MS,Oktibbeha,69,1996,2015,19,43,1,44,
+0.964651204,572,Tinney,Glenn,26,Caucasian,OH,Richland,45,1992,2015,23,49,1,50,
+0.470689546,573,Bravo,Mark,31,Hispanic,CA,Los Angeles,8,1990,1994,4,35,22,57,DNA
+0.343275595,574,Willis,Marrio D'Shane,23,Black,OK,Tulsa,10,2003,2006,3,26,10,36,
+0.633254732,575,Cunningham,Dean,53,Caucasian,TX,Cherokee,7,2014,2015,1,54,1,55,
+0.552365686,576,Olebar,Brandon,19,Native American,WA,King,16,2003,2013,10,29,3,32,
+0.314237731,577,Towler,Raymond,24,Black,OH,Cuyahoga,74,1981,2010,29,53,6,59,DNA
+0.351343544,578,Howard,DeAndre,20,Black,CA,Los Angeles,71,2003,2013,10,30,3,33,
+0.608396923,579,Walker,James,30,Black,NY,Kings,36,1971,1990,19,49,26,75,
+0.440483201,580,Green,Doris,34,Caucasian,WA,Chelan,23,1995,1999,4,38,17,55,
+0.953436558,581,Krone,Ray,34,Caucasian,AZ,Maricopa,77,1992,2002,10,44,14,58,DNA
+0.776849361,582,Martorano,Raymond,53,Caucasian,PA,Philadelphia,54,1984,1999,15,68,17,85,
+0.584716584,583,Davis,Gerald,26,Caucasian,WV,Kanawha,16.33333333,1986,1995,9,35,21,56,DNA
+0.613658396,584,House,Paul G.,23,Caucasian,TN,Union,71,1986,2009,23,46,7,53,DNA
+0.342275894,585,Heins,Chad,18,Caucasian,FL,Duval,80,1996,2007,11,29,9,38,DNA
+0.848689363,586,Holdren,Larry,27,Caucasian,WV,Kanawha,45,1984,2000,16,43,16,59,DNA
+0.517196513,587,Aguirre,Omar,28,Hispanic,IL,Cook,55,1999,2003,4,32,13,45,
+0.892356124,588,Alvarez,Jorge,23,Hispanic,CA,Los Angeles,12,1996,2001,5,28,15,43,
+0.675991514,589,McKay,Cornell,22,Black,MO,St. Louis,12,2013,2015,2,24,1,25,
+0.48041468,590,Dubbs,Charles T.,36,Caucasian,PA,Lancaster,26,2002,2007,5,41,9,50,
+0.564697653,591,Statler,Paul E.,21,Caucasian,WA,Spokane,42,2009,2013,4,25,3,28,
+0.435263855,592,Clugston,Christopher,20,Caucasian,FL,Broward,77,1983,2001,18,38,15,53,
+0.71799149,593,Ortiz,Josue,22,Hispanic,NY,Erie,25,2006,2015,9,31,1,32,
+0.907801215,594,Menendez,Ceaser,23,Hispanic,CA,Los Angeles,12,1996,2001,5,28,15,43,
+0.897287673,595,Peterson,Jamie Lee,21,Caucasian,MI,Kalkaska,69,1998,2014,16,37,2,39,DNA
+0.662726091,596,Jardine,Alvin,20,,HI,Maui,35,1992,2011,19,39,5,44,DNA
+0.343786187,597,Murphy,Thomas,39,Caucasian,WI,Wood,20,1998,1999,1,40,17,57,
+0.218826269,598,Mosley,Sheldon,29,Black,TX,Nueces,60,1996,2013,17,46,3,49,
+0.959015154,599,Barr,Jonathan,14,Black,IL,Cook,85,1997,2011,14,28,5,33,DNA
+0.765763811,600,Rodriguez,Jose,19,Hispanic,NY,Bronx,10,2007,2011,4,23,5,28,
+0.211215499,601,Mahan,Dale,22,Caucasian,AL,Jefferson,35,1986,1998,12,34,18,52,DNA
+0.189384547,602,Veal,Robert,14,Black,IL,Cook,20,1994,2011,17,31,5,36,DNA
+0.205664106,603,Washington,Vonaire,24,Black,WI,Milwaukee,22,1991,2001,10,34,15,49,
+0.842091763,604,Long,Christopher,23,Black,MI,Wayne,5,2008,2008,0,23,8,31,
+0.176588785,605,Camm,David,36,Caucasian,IN,Floyd,59,2002,2013,11,47,3,50,DNA
+0.435936854,606,Christoph,Dayna,16,Caucasian,WA,Spokane,0.538461538,1995,2000,5,21,16,37,
+0.137841339,607,Swanagan,Leonard,54,Black,GA,Cobb,1,2011,2012,1,55,4,59,
+0.04100736,608,Catton,James,43,Caucasian,F-IL,(Central),1.8,1994,2004,10,53,12,65,
+0.207631266,609,Braunskill,Clarence,38,Black,NY,Suffolk,30,1990,1997,7,45,19,64,
+0.712559787,610,Karibi-Ikiriko,Abere,27,Black,MD,Prince George's,15,2005,2007,2,29,9,38,
+0.723020343,611,Chaparro,Anthony,48,Hispanic,NJ,Union,50,2003,2014,11,59,2,61,DNA
+0.904045343,612,Moore,Jonathan,18,Black,IL,Kane,76,2002,2012,10,28,4,32,
+0.079100842,613,Larkins,Ronald,33,Black,OH,Cuyahoga,68,1986,2006,20,53,10,63,
+0.497858421,614,Potts,Clinton,30,Caucasian,OK,Muskogee,66,2009,2012,3,33,4,37,
+0.03005996,615,Adams,Anthony,26,Hispanic,CA,Los Angeles,12,1996,2001,5,31,15,46,
+0.308206192,616,Hayes,Travis,17,Black,LA,Jefferson,75,1998,2007,9,26,9,35,DNA
+0.00923548,617,Ajamu,Kwame,17,Black,OH,Cuyahoga,75,1975,2014,39,56,2,58,
+0.967767728,618,Jackson,Dwayne,18,Black,NV,Clark,4,2003,2011,8,26,5,31,DNA
+0.913197462,619,Mahan,Ronnie,26,Caucasian,AL,Jefferson,76,1986,1998,12,38,18,56,DNA
+0.073337988,620,Jones,Melvin,30,Black,IL,Cook,73,1983,1989,6,36,27,63,
+0.046209579,621,Dandridge,Beniah Alton,29,Caucasian,AL,Montgomery,63,1996,2015,19,48,1,49,
+0.733326502,622,Hernandez,Alejandro,19,Hispanic,IL,DuPage,76,1985,1995,10,29,21,50,DNA
+0.395818956,623,"Palmer, Sr.",Dale,37,Black,OH,Medina,78,1994,1997,3,40,19,59,
+0.276469142,624,Hill,Robert,26,Black,NY,Kings,48,1988,2014,26,52,2,54,
+0.368324553,625,Webster,Bernard,18,Black,MD,Baltimore,30,1983,2002,19,37,14,51,DNA
+0.703679787,626,Dean,James,20,Caucasian,NE,Gage,10,1989,2009,20,40,7,47,DNA
+0.00286312,627,Morales,Raul,41,Hispanic,NY,Bronx,18.5,1988,1997,9,50,19,69,
+0.369555689,628,Linscott,Steven,26,Caucasian,IL,Cook,40,1982,1992,10,36,24,60,DNA
+0.718861814,629,Hampton,Patrick,18,Black,IL,Cook,60,1982,2011,29,47,5,52,
+0.075018807,630,Capozzi,Anthony,27,Caucasian,NY,Erie,11,1987,2007,20,47,9,56,DNA
+0.666785926,631,Cridelle,Richard,41,Black,NY,Schnectady,20,2010,2014,4,45,2,47,
+0.676614416,632,Waithe,Michael,22,Black,NY,Kings,2.75,1987,2015,28,50,1,51,
+0.852893651,633,Ballard,Frances,54,Caucasian,TN,Shelby,5,1987,1993,6,60,23,83,
+0.723778165,634,Vent,Eugene,17,Native American,AK,Fairbanks,38,1999,2015,16,33,1,34,
+0.880703463,635,Jennette,Alvena,21,Black,NY,Kings,34,1988,2014,26,47,2,49,
+0.583970317,636,Thagard,Jerome,16,Black,NY,Erie,51,2010,2014,4,20,2,22,
+0.1065369,637,Burnside,Brandon,27,Black,WI,Milwaukee,68,2011,2015,4,31,1,32,DNA
+0.311176668,638,Lowery,Eddie,22,Caucasian,KS,Riley,11,1982,2003,21,43,13,56,DNA
+0.589214478,639,Bermudez,Fernando,21,Hispanic,NY,New York,45,1992,2009,17,38,7,45,
+0.587979272,640,Nelson,Jimmie,28,Caucasian,MI,Iosco,37.5,2010,2014,4,32,2,34,
+0.870651381,641,Davis,Glenn,18,Black,LA,Jefferson,77,1993,2010,17,35,6,41,
+0.712827007,642,Miller,Thomas,19,Caucasian,FL,Hillsborough,15,1997,2001,4,23,15,38,
+0.505304956,643,Grajeda,Senon,31,Hispanic,CA,Los Angeles,85,1987,1993,6,37,23,60,
+0.635048294,644,Montgomery,Johnathan,14,Caucasian,VA,Hampton,7.5,2008,2013,5,19,3,22,
+0.49895692,645,Awe,Joseph,36,Caucasian,WI,Marquette,3,2007,2013,6,42,3,45,
+0.246201014,646,Ramirez-Lopez,Juan,44,Hispanic,F-CA,(Southern),6,2000,2003,3,47,13,60,
+0.649260126,647,Comstock,Stephen,43,Caucasian,NV,Washoe,17.5,2004,2015,11,54,1,55,
+0.667940103,648,Vaughan III,James,28,Black,OH,Cuyahoga,77,2008,2009,1,29,7,36,
+0.886345579,649,Jimenez,Thaddeus,13,Hispanic,IL,Cook,50,1994,2009,15,28,7,35,
+0.002815657,650,Munson,Adolph,37,Black,OK,Custer,73,1985,1995,10,47,21,68,
+0.516440446,651,Smith,Michael,32,Black,CA,Los Angeles,61,1994,2009,15,47,7,54,
+0.826780201,652,Bryan,Sheila,43,Caucasian,GA,Tift,54,1998,2000,2,45,16,61,
+0.431349222,653,Gaston,Jeffrey,34,Black,TX,Harris,0.164383562,2006,2015,9,43,1,44,
+0.228354868,654,Schaaf,David,40,Caucasian,PA,Bucks,14,2003,2006,3,43,10,53,
+0.566235659,655,Loveless,Debbie,31,Caucasian,TX,Rains,75,1989,1994,5,36,22,58,DNA
+0.11998066,656,Golding,Jerry,43,Caucasian,F-VA,(Eastern),3,1998,1999,1,44,17,61,
+0.526716121,657,Saecker,Frederic,38,Caucasian,WI,Buffalo,15,1990,1996,6,44,20,64,DNA
+0.474890878,658,Fields,Hilliard,25,Black,TX,Dallas,5,1997,2011,14,39,5,44,
+0.010147561,659,Contee,Darian,18,Black,TX,Lubbock,3,2007,2010,3,21,6,27,
+0.124110306,660,Faison,Anthony,21,Black,NY,Kings,54,1988,2001,13,34,15,49,
+0.781327083,661,Johnson,Latisha,18,Black,NY,Bronx,40,2007,2014,7,25,2,27,
+0.421169044,662,Miranda,Roberto,38,Black,NV,Clark,66,1982,1996,14,52,20,72,
+0.316608449,663,Johnson,Antrone,17,Black,TX,Dallas,74,1996,2009,13,30,7,37,
+0.594493359,664,Morales,Santiago Ventura,19,Hispanic,OR,Clackamas,21,1986,1991,5,24,25,49,
+0.278627107,665,Martin,Mario,17,Black,TX,Harris,0.082191781,2009,2010,1,18,6,24,
+0.097434555,666,Self,Grant,31,Caucasian,CA,Kern,31,1985,2008,23,54,8,62,
+0.192959615,667,Hall,Jennifer,20,Caucasian,MO,Cass,3,2001,2005,4,24,11,35,
+0.645574396,668,Cunningham,Henry,46,Caucasian,WA,Chelan,47,1994,1999,5,51,17,68,
+0.682241681,669,Winslow,Thomas,18,Caucasian,NE,Gage,50,1990,2009,19,37,7,44,DNA
+0.961523389,670,Wilhoit,Gregory,30,Caucasian,OK,Osage,68,1987,1993,6,36,23,59,
+0.880312479,671,Wheeler-Whichard,Jonathan,15,Black,NY,Kings,43,1997,2009,12,27,7,34,
+0.904183898,672,Peralta,David,23,Hispanic,GA,DeKalb,72,2001,2013,12,35,3,38,
+0.656813969,673,Herrera,Juan,21,Hispanic,CA,Los Angeles,89,1999,2006,7,28,10,38,
+0.652234272,674,Rivera,Simon Angel,24,Hispanic,TX,Travis,2,2002,2005,3,27,11,38,
+0.950269926,675,Williams,Joe Sidney,19,Black,TX,McLennan,74,1987,1993,6,25,23,48,DNA
+0.10990713,676,Williams,Johnny,23,Black,CA,Alameda,16,2000,2013,13,36,3,39,DNA
+0.917960943,677,"Quattrocchi, III",John,39,Caucasian,RI,Providence,40,1994,2001,7,46,15,61,
+0.79566901,678,Hays,Robert,33,Caucasian,NV,Clark,63,1993,2007,14,47,9,56,
+0.287197228,679,Frederick,Sherri,33,Black,TX,Harris,0.5,2010,2012,2,35,4,39,
+0.765103943,680,Moore,Curtis,32,Black,VA,Greensville,66,1978,2010,32,64,6,70,DNA
+0.478064044,681,Jordan,Queen Esther,45,Black,TX,Harris,0.5,2008,2009,1,46,7,53,
+0.017229799,682,Burge,Gerald,29,Caucasian,LA,St. Tammany,71,1986,1992,6,35,24,59,
+0.989328307,683,Roberts,Marvin,19,Native American,AK,Fairbanks,33,1999,2015,16,35,1,36,
+0.049349875,684,Ward,Nathaniel,35,Black,TX,McLennan,45,1999,2001,2,37,15,52,
+0.33904717,685,Cvijanovich,Daniel,26,Caucasian,F-ND,,1.583333333,2007,2011,4,30,5,35,
+0.39378004,686,Mitchell,Marvin,21,Black,MA,Suffolk,17,1990,1997,7,28,19,47,DNA
+0.310245115,687,Cleary,Mark,27,Caucasian,MI,Macomb,25,1989,2005,16,43,11,54,
+0.545120894,688,Richardson,Kevin,14,Black,NY,New York,7.5,1990,2002,12,26,14,40,DNA
+0.970801114,689,Bunch,Kristine,21,Caucasian,IN,Decatur,60,1996,2012,16,37,4,41,
+0.931983003,690,Brooks,Levon,26,Black,MS,Noxubee,70,1992,2008,16,42,8,50,
+0.791702136,691,Padgett,Larry Randal,40,Caucasian,AL,Marshall,58,1992,1997,5,45,19,64,
+0.612593639,692,Whitley,Drew,32,Black,PA,Allegheny,78,1989,2006,17,49,10,59,DNA
+0.62212435,693,Miranda,Adam,21,Hispanic,CA,Los Angeles,69,1983,2009,26,47,7,54,
+0.632398527,694,Batten,Floyd,20,Black,NY,Kings,33,1984,2004,20,40,12,52,
+0.745804019,695,Corner,Damon,23,Black,FL,Palm Beach,72,2002,2012,10,33,4,37,
+0.24791147,696,Rogers,Mandel,18,Black,TX,Harris,12,1999,2014,15,33,2,35,DNA
+0.68894407,697,"Radillo, Jr.",Sergio,24,Hispanic,FL,Miami-Dade,78,1995,2005,10,34,11,45,
+0.334989362,698,Pacek,Jerry,13,Caucasian,PA,Allegheny,15,1959,1991,32,45,25,70,
+0.796811254,699,Cheung,Kum Yet,29,Asian,CA,Alameda,29,1995,2002,7,36,14,50,
+0.486524891,700,Austin,Darryl,22,Black,NY,Kings,38,1988,2014,26,48,2,50,
+0.528505777,701,Miller,Harry,45,Black,UT,Salt Lake,13,2004,2007,3,48,9,57,
+0.317019894,702,Martinez,Joaquin Jose,23,Hispanic,FL,Hillsborough,76,1997,2001,4,27,15,42,
+0.112103392,703,Echavarria,Angel,27,Hispanic,MA,Essex,67,1996,2015,19,46,1,47,DNA
+0.727290066,704,Ward,Madeleine,52,Caucasian,IL,DuPage,6.5,2006,2008,2,54,8,62,
+0.743535013,705,Duncan,Cornelia,33,Black,TX,Harris,0.5,2013,2015,2,35,1,36,
+0.128902853,706,Chavez,China,22,Caucasian,TX,Harris,45,2014,2014,0,22,2,24,
+0.023087764,707,Clancy,Michael,22,Hispanic,NY,Bronx,38,1999,2009,10,32,7,39,
+0.378985092,708,Kindle,Jason,31,Black,CA,Los Angeles,85,2000,2003,3,34,13,47,
+0.279494724,709,Palomo,Tim,28,Caucasian,CA,Kern,14,1985,1990,5,33,26,59,
+0.663541841,710,Lynn,Eric,25,Black,MD,Montgomery,65,1994,2007,13,38,9,47,
+0.443364336,711,Harmon,Ricky Dale,35,Caucasian,TX,Dallas,30,1994,2004,10,45,12,57,
+0.137588559,712,Hernandez,Maria,39,Hispanic,F-TX,(Western),17,2004,2014,10,49,2,51,
+0.009389692,713,Minnitt,Andre,21,Black,AZ,Pima,79,1993,2002,9,30,14,44,
+0.294801646,714,Taylor,Gregory,28,Caucasian,NC,Wake,68,1993,2010,17,45,6,51,DNA
+0.635729227,715,Futrell,Rayshard Darnell,17,Black,MI,Wayne,75,2009,2010,1,18,6,24,
+0.899711223,716,Amrine,Joseph,28,Black,MO,Cole,73,1986,2003,17,45,13,58,
+0.482645856,717,Taylor,Ronald Gene,32,Black,TX,Harris,60,1995,2008,13,45,8,53,DNA
+0.861592801,718,Su,Shih-Wei,17,Asian,NY,Queens,16,1992,2003,11,28,13,41,
+0.026235912,719,Wilhite,Charles,25,Black,MA,Hampden,72,2010,2013,3,28,3,31,
+0.611808545,720,Ortiz,Victor,24,Hispanic,NY,Orange,18.5,1984,1996,12,36,20,56,DNA
+0.506683519,721,Caldwell,Maurice,23,Black,CA,San Francisco,50,1991,2011,20,43,5,48,
+0.55125124,722,Lewis,Scott,25,Black,CT,New Haven,100,1995,2015,20,45,1,46,
+0.379407831,723,"Boyd, Jr.",Kenneth Wayne,22,Black,TX,Shelby,68,1999,2013,14,36,3,39,
+0.232368169,724,Ways,Anthony,19,Black,NJ,Camden,77,1991,2005,14,33,11,44,
+0.069404999,725,Settle,Daniel Roy,18,Caucasian,TX,Hale,10,1999,2011,12,30,5,35,
+0.867346688,726,Prentice,Mark,27,Caucasian,NY,Tompkins,18.75,1989,1995,6,33,21,54,
+0.498055511,727,Shakur,Shabaka,23,Black,NY,Kings,23,1989,2015,26,49,1,50,
+0.945522529,728,Vega,Damaso,37,Hispanic,NJ,Monmouth,67,1982,1989,7,44,27,71,
+0.421705181,729,Handley,Zachary,13,Caucasian,PA,Northampton,9,2008,2015,7,20,1,21,
+0.924715412,730,Ott,Chaunte,21,Black,WI,Milwaukee,75,1996,2009,13,34,7,41,DNA
+0.132087135,731,Snowden,Harold Grant,38,Caucasian,FL,Miami-Dade,52,1986,1998,12,50,18,68,
+0.605183473,732,McMillian,Walter,45,Black,AL,Monroe,74,1988,1993,5,50,23,73,
+0.184307662,733,Tears,Jonathan,29,Black,TN,Marshall,25,2009,2014,5,34,2,36,
+0.384667154,734,Brown,Danny,24,Black,OH,Lucas,77,1982,2001,19,43,15,58,DNA
+0.151662748,735,Armstrong,Homer,44,Black,TX,Harris,0.010958904,2014,2015,1,45,1,46,
+0.503146698,736,Salaam,Yusef,14,Black,NY,New York,7.5,1990,2002,12,26,14,40,DNA
+0.819398524,737,Monroe,Beverly,54,Caucasian,VA,Powhatan,22,1992,2003,11,65,13,78,
+0.225528843,738,Starks,Bennie,26,Black,IL,Lake,60,1986,2013,27,53,3,56,DNA
+0.852526875,739,Stallings,Patricia,24,Caucasian,MO,Jefferson,71,1991,1991,0,24,25,49,
+0.744099465,740,Chalmers,Terry,20,Black,NY,Westchester,18,1987,1995,8,28,21,49,DNA
+0.107897187,741,Purtell,Daniel,21,Caucasian,PA,Centre,4.5,2002,2004,2,23,12,35,
+0.255990656,742,Beauchamp,Franklin,27,Hispanic,NY,Bronx,50,1986,1989,3,30,27,57,
+0.81462141,743,Thompson,John,22,Black,LA,Orleans,49,1985,1999,14,36,17,53,
+0.193183955,744,Lewis,David,46,Caucasian,F-CA,(Northern),7.5,2000,2005,5,51,11,62,
+0.708926103,745,Seranno,Ivan,17,Caucasian,PA,Philadelphia,76,1988,2005,17,34,11,45,
+0.514920192,746,Lumpkins,Todd,27,Black,NY,Kings,25,1987,1989,2,29,27,56,
+0.163844773,747,Rivera,Jacques,23,Hispanic,IL,Cook,80,1990,2011,21,44,5,49,
+0.832563022,748,Revelle,George,36,Caucasian,MO,Christian,58,1996,1998,2,38,18,56,
+0.314871475,749,Ramchair,Racky,22,Other,NY,Queens,15,1997,2010,13,35,6,41,
+0.870228131,750,Johnson,Terrell,18,Black,PA,Allegheny,73,1995,2012,17,35,4,39,
+0.091528337,751,Drumgold,Shawn,23,Black,MA,Suffolk,74,1989,2003,14,37,13,50,
+0.664479763,752,Smith,Billy James,34,Black,TX,Dallas,58,1987,2006,19,53,10,63,DNA
+0.978419871,753,Daye,Frederick Renee,25,Black,CA,San Diego,65,1984,1994,10,35,22,57,DNA
+0.826953412,754,Ochoa,Christopher,22,Hispanic,TX,Travis,76,1989,2002,13,35,14,49,DNA
+0.238846967,755,Escobar,Jose,20,Hispanic,TX,Harris,0.057534247,2015,2015,0,20,1,21,
+0.770694438,756,Grajeda,Arthur,19,Hispanic,CA,Los Angeles,66,1987,1991,4,23,25,48,
+0.911108987,757,Rodriguez,Jeffrey,24,Hispanic,CA,Santa Clara,61,2003,2007,4,28,9,37,
+0.303149563,758,Douglas,Yancy,19,Black,OK,Cleveland,79,1995,2009,14,33,7,40,
+0.851204737,759,Gonzalez,Hector,18,Hispanic,NY,Kings,50,1996,2002,6,24,14,38,DNA
+0.001510836,760,Pitre,Derick,40,Black,TX,Harris,0.5,2014,2014,0,40,2,42,
+0.480142068,761,Johnson,Donnell,16,Black,MA,Suffolk,19,1996,2000,4,20,16,36,
+0.264384177,762,Nash,Alprentiss,20,Black,IL,Cook,80,1997,2012,15,35,4,39,DNA
+0.923226895,763,Williams,James,50,Caucasian,GA,Chatham,55,1982,1989,7,57,27,84,
+0.400928839,764,Fox,Bretton,24,Caucasian,TX,Harris,0.02739726,2008,2015,7,31,1,32,
+0.221142012,765,Montalvo,Ruben,16,Hispanic,NY,Bronx,35,1988,2001,13,29,15,44,
+0.491412535,766,Anderson,Tyjuan,19,Black,IL,Winnebago,50,2002,2015,13,32,1,33,
+0.174388573,767,"Fears, Jr.",Joseph R.,34,Black,OH,Franklin,20,1984,2009,25,59,7,66,DNA
+0.145769175,768,von Schlieffen,Wolfgang,47,Caucasian,F-FL,(Southern),10,1994,2000,6,53,16,69,
+0.766080548,769,Whirl,Shawn,20,Black,IL,Cook,60,1991,2015,24,44,1,45,
+0.933444732,770,Phillips,Lacey,22,Caucasian,F-WI,(Eastern),0.166666667,2011,2014,3,25,2,27,
+0.863932112,771,Ennis,Sean,39,Caucasian,OH,Franklin,15,1990,1994,4,43,22,65,
+0.96043841,772,Schledwitz,Karl,30,Caucasian,F-TN,(Eastern),0.5,1992,1999,7,37,17,54,
+0.99380954,773,Parker,Darrel,24,Caucasian,NE,Lancaster,72,1956,1991,35,59,25,84,
+0.447179852,774,Mai,Hien Juan,34,Caucasian,TX,Harris,0.3,2012,2014,2,36,2,38,
+0.425626389,775,Goodman,Bruce Dallas,34,Caucasian,UT,Beaver,26,1986,2004,18,52,12,64,DNA
+0.483307991,776,Bledsoe,Floyd,23,Caucasian,KS,Jefferson,68,2000,2015,15,38,1,39,DNA
+0.891740115,777,Grannis,David,21,Caucasian,AZ,Pima,80,1991,1996,5,26,20,46,
+0.480972328,778,Vargas,Alfredo,62,Hispanic,CT,Fairfield,12,2002,2006,4,66,10,76,
+0.161778269,779,Burrowes,Christopher,21,Black,WI,Milwaukee,3,2007,2009,2,23,7,30,
+0.860244805,780,Logan,Alton,28,Black,IL,Cook,76,1982,2008,26,54,8,62,
+0.26907705,781,Toro,Angel,30,Caucasian,MA,Suffolk,67,1983,2004,21,51,12,63,
+0.358559433,782,Carr,Weldon Wayne,57,Caucasian,GA,Fulton,77,1994,2004,10,67,12,79,
+0.524350998,783,Sherwin,James T.,53,Caucasian,F-NY,(Southern),0.5,1989,1991,2,55,25,80,
+0.018098567,784,Anderson,James S.,26,Black,WA,Pierce,17,2005,2009,4,30,7,37,
+0.006272596,785,Montgomery,Patrick,31,Caucasian,TX,Dallas,20,1987,2009,22,53,7,60,
+0.607455262,786,Street,John,36,Caucasian,F-MO,(Western),58,2006,2009,3,39,7,46,
+0.459842467,787,Robinson,Tobaris,27,Black,TX,Harris,0.583333333,2011,2012,1,28,4,32,
+0.082145332,788,Munoz,Cesar,21,Hispanic,IL,Cook,45,2000,2013,13,34,3,37,
+0.408064952,789,Sweat,Danny,29,Black,TX,Harris,0.164383562,2009,2015,6,35,1,36,
+0.978628783,790,Gell,Alan,20,Caucasian,NC,Bertie,76,1998,2004,6,26,12,38,
+0.597366137,791,Gray,Russell Leroy,20,Black,VA,Richmond City,52,1987,1990,3,23,26,49,
+0.972229258,792,Bragg,Rodney L.,31,Black,AR,Clark,59,1996,2000,4,35,16,51,
+0.666769592,793,Thomas,Adrian,26,Black,NY,Rensselaer,60,2009,2014,5,31,2,33,
+0.204181008,794,Ward,Bernard,28,Caucasian,MD,Anne Arundel,79,1989,1994,5,33,22,55,
+0.142914784,795,Lewchuk,Dennis,33,Caucasian,NE,Madison,7.5,1980,1996,16,49,20,69,
+0.666758471,796,McCormick,Michael Lee,32,Caucasian,TN,Jefferson,70,1987,2007,20,52,9,61,DNA
+0.507313852,797,Dabbs,Charles,27,Black,NY,Westchester,16,1984,1991,7,34,25,59,DNA
+0.360323177,798,Farnbaugh,William,25,Caucasian,FL,Pasco,70,1997,2004,7,32,12,44,
+0.289171568,799,Turner,Clinton,31,Black,NY,Queens,15,1988,2005,17,48,11,59,
+0.818161612,800,Alowonle,Rilwan,50,Black,MN,Washington,4,2007,2010,3,53,6,59,
+0.826775597,801,Ruffin,Larry Donnell,19,Black,MS,Forrest,72,1980,2011,31,50,5,55,DNA
+0.359949475,802,O'Connell,Frank,25,Caucasian,CA,Los Angeles,29,1985,2012,27,52,4,56,
+0.642100784,803,Stinson,Robert Lee,20,Black,WI,Milwaukee,73,1985,2009,24,44,7,51,DNA
+0.538445785,804,Turner,Keith,22,Black,TX,Dallas,20,1983,2005,22,44,11,55,DNA
+0.590461615,805,Alejandro,Gilbert,35,Hispanic,TX,Uvalde,12,1990,1994,4,39,22,61,DNA
+0.602775347,806,Harvey,John Michael,24,Caucasian,TX,Tarrant,40,1992,2005,13,37,11,48,
+0.857274776,807,Coleman,Christopher,20,Black,IL,Peoria,60,1995,2014,19,39,2,41,
+0.816508974,808,Pacyon,Douglas,28,Caucasian,NY,Erie,3,1985,2010,25,53,6,59,DNA
+0.207380822,809,Mowbray,Fredda Susie,39,Caucasian,TX,Cameron,71,1988,1998,10,49,18,67,
+0.596591575,810,Williams,Lawrence,32,Black,NY,Kings,10,2009,2012,3,35,4,39,
+0.616112796,811,Powell,Paris,19,Black,OK,Cleveland,71,1997,2009,12,31,7,38,
+0.366942705,812,Cowans,Stephan,26,Black,MA,Suffolk,37.5,1998,2004,6,32,12,44,DNA
+0.222223029,813,Ayers,Randall Lynn,17,Caucasian,OH,Hamilton,21.33333333,1982,1990,8,25,26,51,
+0.213453853,814,Willis,Calvin,21,Black,LA,Caddo,69,1982,2003,21,42,13,55,DNA
+0.786676241,815,Mendez,Alexandra,18,Caucasian,TX,Harris,0.5,2014,2014,0,18,2,20,
+0.297456343,816,Davis,Dewey,53,Caucasian,WV,Kanawha,15,1987,1995,8,61,21,82,DNA
+0.36863437,817,Robinson,Anthony,25,Black,TX,Harris,27,1987,2000,13,38,16,54,DNA
+0.75634872,818,Tomlin,Charles,26,Black,CA,Kern,59,1979,1994,15,41,22,63,
+0.985671557,819,Varela,Joaquin,22,Hispanic,IL,Cook,69,1982,1991,9,31,25,56,
+0.044749812,820,Blackshire,James,18,Black,TX,Dallas,40,1995,2009,14,32,7,39,
+0.364985861,821,West,Mark,47,Black,TX,Harris,0.5,2014,2014,0,47,2,49,
+0.639124915,822,Alexander,Richard,29,Black,IN,St. Joseph,70,1998,2001,3,32,15,47,DNA
+0.575026352,823,Fish,Harold,57,Caucasian,AZ,Coconino,10,2006,2009,3,60,7,67,
+0.384822667,824,Shortt,James,21,Black,CA,Los Angeles,78,1982,2010,28,49,6,55,
+0.601624717,825,Peacock,Freddie,33,Black,NY,Monroe,5,1976,2010,34,67,6,73,DNA
+0.927175914,826,Lapointe,Richard,41,Caucasian,CT,Tolland,75,1992,2015,23,64,1,65,DNA
+0.392194287,827,Abdal,Warith Habib,43,Black,NY,Erie,50,1983,1999,16,59,17,76,DNA
+0.487876494,828,"Kauffman, Jr.",Carl Joe,21,Caucasian,PA,Bedford,10,2001,2004,3,24,12,36,
+0.72273294,829,Baran,Bernard,18,Caucasian,MA,Berkshire,79,1985,2009,24,42,7,49,
+0.071743745,830,Santana,Raymond,14,Black,NY,New York,7.5,1990,2002,12,26,14,40,DNA
+0.723895211,831,Weitzel,Robert,39,Caucasian,UT,Davis,8,2000,2002,2,41,14,55,
+0.442557287,832,"Dexter, Jr.",Clarence Richard,49,Caucasian,MO,Clay,41,1991,1999,8,57,17,74,
+0.636740652,833,Mardlin,Frederick,31,Caucasian,MI,St. Clair,11.5,2007,2013,6,37,3,40,
+0.097171244,834,Pettit,Leona,27,Caucasian,OH,Vinton,53,1999,2001,2,29,15,44,
+0.619663626,835,Pitts,Ricky Lynn,31,Caucasian,CA,Kern,70,1985,1991,6,37,25,62,
+0.061784709,836,Chasstion,Donald,50,Black,TX,Harris,0.082191781,2009,2015,6,56,1,57,
+0.288872956,837,Stiers,Donald,25,Caucasian,TX,Harris,2,2014,2015,1,26,1,27,
+0.87450473,838,"Dupree, Jr.",Cornelius,20,Black,TX,Dallas,75,1980,2011,31,51,5,56,DNA
+0.207986838,839,McNenney,Edward,40,Caucasian,NY,New York,0.246575342,2008,2011,3,43,5,48,
+0.745420976,840,Richardson,James Joseph,31,Black,FL,DeSoto,67,1968,1989,21,52,27,79,
+0.927316912,841,Sledge,Joseph,34,Black,NC,Bladen,75,1978,2015,37,71,1,72,DNA
+0.28598685,842,Loftin,Tyrone,48,Black,NY,Onondaga,17,2008,2010,2,50,6,56,
+0.773506038,843,White,Joseph,22,Caucasian,NE,Gage,70,1989,2008,19,41,8,49,DNA
+0.911229895,844,Bradford,Marcellius,17,Black,IL,Cook,12,1988,2001,13,30,15,45,DNA
+0.359273429,845,Baker,Ben,32,Black,IL,Cook,18,2006,2016,10,42,0,42,
+0.532601233,846,Cesar,Owen,24,Black,PA,Berks,26.5,2004,2009,5,29,7,36,
+0.206882251,847,Tuley,Wesley,27,Caucasian,TX,Dallas,10,1997,2003,6,33,13,46,
+0.660641782,848,Rockette,Xavier,19,Black,WI,Racine,76,2003,2013,10,29,3,32,
+0.627423111,849,Overton,Hannah,29,Caucasian,TX,Nueces,78,2007,2015,8,37,1,38,
+0.56057129,850,Cantu,Raul,34,Hispanic,TX,Harris,0.5,2005,2005,0,34,11,45,
+0.919371256,851,Chen,Boping,49,Asian,CA,San Mateo,14,2006,2009,3,52,7,59,
+0.874994448,852,Smith,Demetrius,25,Black,MD,Baltimore City,65,2010,2012,2,27,4,31,
+0.878078765,853,Haynesworth,Thomas,18,Black,VA,Richmond City,74,1984,2011,27,45,5,50,DNA
+0.794801445,854,Brinson,Jeremiah,28,Black,NY,Ontario,18,1999,2009,10,38,7,45,
+0.191625858,855,Armstrong,Ralph,27,Caucasian,WI,Dane,73,1981,2009,28,55,7,62,DNA
+0.966668377,856,Talbert,Carlton,29,Black,TX,Harris,0,2009,2015,6,35,1,36,
+0.224531373,857,Armstrong,LaMonte,38,Black,NC,Guilford,72,1995,2013,18,56,3,59,DNA
+0.237519403,858,Michaels,Margaret Kelly,22,Caucasian,NJ,Essex,47,1988,1994,6,28,22,50,
+0.490799646,859,Evans,Michael,17,Black,IL,Cook,74,1976,2003,27,44,13,57,DNA
+0.802869619,860,Kyles,Curtis,24,Black,LA,Orleans,72,1984,1998,14,38,18,56,
+0.830906931,861,Pinchback,Johnny,28,Black,TX,Dallas,72,1984,2011,27,55,5,60,DNA
+0.602586758,862,Martinez,Angelo,19,Hispanic,NY,Queens,62,1986,2002,16,35,14,49,
+0.908469736,863,Glisson,Eric,18,Black,NY,Bronx,57,1997,2012,15,33,4,37,
+0.702487284,864,Halstead,Dennis,26,Caucasian,NY,Nassau,33,1986,2005,19,45,11,56,DNA
+0.283196743,865,Garcia,Roy Lopez,45,Hispanic,CA,Santa Clara,63,2000,2006,6,51,10,61,
+0.091680422,866,Reed,DeShawn,24,Black,MI,Wayne,25,2001,2009,8,32,7,39,
+0.27406018,867,Longus,Michael,26,Black,DC,,25,2005,2013,8,34,3,37,
+0.800295469,868,Brewer,Kennedy,21,Black,MS,Noxubee,79,1995,2008,13,34,8,42,DNA
+0.100175581,869,Ramos,Alberto,21,Hispanic,NY,Bronx,16.5,1985,1994,9,30,22,52,
+0.062891534,870,Goodman,Warren,30,Black,WI,Milwaukee,22,1994,2007,13,43,9,52,
+0.183713735,871,"Dill, Jr.",Wayne,26,Caucasian,CA,Kern,77,1985,1991,6,32,25,57,
+0.133244364,872,Bostick,Yeidja,21,Caucasian,PA,Philadelphia,7.5,1990,1993,3,24,23,47,
+0.080399008,873,Rowan,Jeffrey,26,Caucasian,OK,Pittsburg,35,2009,2012,3,29,4,33,
+0.176860004,874,Grissom,James,43,Caucasian,MI,St. Clair,25,2003,2012,9,52,4,56,
+0.56139681,875,Leka,Sami,33,Caucasian,NY,Kings,20,1990,2002,12,45,14,59,
+0.628980855,876,Cristini,Michael,26,Caucasian,MI,Macomb,44,1991,2004,13,39,12,51,
+0.888147083,877,Swift,Terrill,17,Black,IL,Cook,36,1998,2012,14,31,4,35,DNA
+0.790669748,878,Dick,Steven,18,Caucasian,IL,Cook,0.5,1983,2001,18,36,15,51,
+0.402278699,879,Elizondo,Joe,49,Hispanic,TX,Jefferson,69,1984,1997,13,62,19,81,
+0.469391381,880,Bryson,David,28,Caucasian,OK,Oklahoma,85,1983,2003,20,48,13,61,DNA
+0.36790378,881,Piszczek,Brian,22,Caucasian,OH,Cuyahoga,20,1991,1994,3,25,22,47,DNA
+0.171836912,882,Landano,Vincent James,36,Caucasian,NJ,Hudson,54,1977,1998,21,57,18,75,
+0.051956812,883,LeFever,Virginia,37,Caucasian,OH,Licking,61,1990,2011,21,58,5,63,
+0.126784182,884,Brown,Alfred,21,Black,TX,Harris,70,2005,2015,10,31,1,32,
+0.672970953,885,Limone,Peter,31,Caucasian,MA,Suffolk,65,1968,2001,33,64,15,79,
+0.203102242,886,Atkins,Timothy,17,Black,CA,Los Angeles,56,1987,2007,20,37,9,46,
+0.394220285,887,Nelson,Gary,29,Black,GA,Chatham,68,1980,1991,11,40,25,65,
+0.837603349,888,Patterson,Maurice,35,Black,IL,Cook,30,2003,2010,7,42,6,48,DNA
+0.701494047,889,Madrigal,Rafael,25,Hispanic,CA,Los Angeles,71,2002,2009,7,32,7,39,
+0.423799797,890,Prineas,Anthony,21,Caucasian,WI,Racine,10,2004,2012,8,29,4,33,
+0.418724882,891,Jones,Joe C.,23,Black,KS,Shawnee,80,1986,1992,6,29,24,53,DNA
+0.829078888,892,Dziubak,Richard Paul,34,Caucasian,MN,Ramsey,6.5,1987,1989,2,36,27,63,
+0.692295124,893,Coulter,Phillip,38,Caucasian,OK,Kingfisher,15,2000,2002,2,40,14,54,
+0.168204616,894,Kiper,Ben,26,Caucasian,KY,Butler,55,2000,2007,7,33,9,42,
+0.981024266,895,Rollins,Lafonso,17,Black,IL,Cook,75,1994,2004,10,27,12,39,DNA
+0.268290833,896,Dombrowski,Peter,37,Caucasian,NY,Erie,13.5,1985,1990,5,42,26,68,
+0.22718898,897,Beridon,Cheryle,23,Black,LA,Terrebonne,75,1979,2003,24,47,13,60,
+0.716774684,898,Sanders,David,39,Caucasian,WI,Milwaukee,15,2006,2007,1,40,9,49,
+0.942081654,899,Catron,Xavier,22,Black,IL,Cook,35,1992,2000,8,30,16,46,
+0.336586445,900,Jones,Lonnie,34,Black,NY,Kings,37,2002,2007,5,39,9,48,
+0.365323312,901,Roman,Miguel,31,Hispanic,CT,Hartford,60,1990,2009,19,50,7,57,DNA
+0.992448329,902,Saunders,Michael,15,Black,IL,Cook,40,1998,2012,14,29,4,33,DNA
+0.158957148,903,Courtney,Sedrick,23,Black,OK,Tulsa,30,1996,2012,16,39,4,43,DNA
+0.090804116,904,Berryman,Earl,24,Black,NJ,Essex,50,1985,1997,12,36,19,55,
+0.106454669,905,Sawyer,Thomas,49,Caucasian,MI,Hillsdale,27,1992,2003,11,60,13,73,
+0.83429145,906,Lane,Lionel,33,Black,IL,Kane,60,1995,1995,0,33,21,54,
+0.645228862,907,Williamson,Ronald Keith,29,Caucasian,OK,Pontotoc,71,1988,1999,11,40,17,57,DNA
+0.576294437,908,Tyson,Dequinncy,28,Black,TX,Harris,0.082191781,2012,2015,3,31,1,32,
+0.390825338,909,Foley,Kenneth Wayne,26,Caucasian,CA,Santa Clara,44,1995,2007,12,38,9,47,
+0.661971747,910,Eldridge,Yvonne,41,Caucasian,CA,Contra Costa,3,1996,2003,7,48,13,61,
+0.066852685,911,Ferguson,Ryan,17,Caucasian,MO,Boone,40,2005,2013,8,25,3,28,
+0.955655334,912,Fountain,Wiley,28,Black,TX,Dallas,40,1986,2003,17,45,13,58,DNA
+0.032453095,913,Rhoades,Nick,33,Caucasian,IA,Black Hawk,25,2009,2014,5,38,2,40,
+0.710673898,914,Winston,Michael,21,Black,IL,Cook,40,2007,2012,5,26,4,30,
+0.895534311,915,Provience,Dwayne,27,Black,MI,Wayne,47,2001,2010,9,36,6,42,
+0.117639294,916,Williams,Derrick Raphel,29,Black,FL,Manatee,67,1993,2011,18,47,5,52,DNA
+0.670243754,917,Mills,Damian,20,Black,NC,Buncombe,12,2001,2015,14,34,1,35,DNA
+0.667257265,918,Resh,Randy,24,Caucasian,OH,Portage,51,1990,2007,17,41,9,50,
+0.421063016,919,bin Wahad,Dhoruba,26,Black,NY,New York,27,1973,1995,22,48,21,69,
+0.460677057,920,Chaplin,Michael T.,24,Caucasian,VA,Augusta,1,2008,2009,1,25,7,32,
+0.78606274,921,Moldowan,Jeffrey,20,Caucasian,MI,Macomb,75,1991,2003,12,32,13,45,
+0.885225451,922,Morales,Jose,17,Hispanic,NY,Bronx,42,1988,2001,13,30,15,45,
+0.396650546,923,Taylor,Ruth,31,Caucasian,CA,Kern,6,1985,2001,16,47,15,62,
+0.536118975,924,McLaughlin,Bruce,45,Caucasian,VA,Loudoun,13,1998,2002,4,49,14,63,
+0.79793805,925,Blyden,Malisha,22,Black,NY,Bronx,40,2007,2014,7,29,2,31,
+0.325330238,926,Lee,Koua Fong,28,Asian,MN,Ramsey,8,2007,2010,3,31,6,37,
+0.766907948,927,Gavin,Willie,35,Black,WI,Racine,8,1997,2014,17,52,2,54,
+0.993586679,928,Bullock,Ronnie,27,Black,IL,Cook,60,1984,1994,10,37,22,59,DNA
+0.420901289,929,Hebrard,Alexander,25,Caucasian,TX,Harris,4,2011,2013,2,27,3,30,
+0.615317806,930,Bivens,Phillip,28,Black,MS,Forrest,65,1980,2010,30,58,6,64,DNA
+0.393369435,931,Walker,Joseph,44,Black,SC,Bamberg,24,2003,2014,11,55,2,57,
+0.720080998,932,Bryant,Andre,20,Black,FL,Manatee,30,2007,2015,8,28,1,29,
+0.884220926,933,Jovanovic,Oliver,30,Caucasian,NY,New York,48,1998,2001,3,33,15,48,
+0.365250197,934,Butler,Sabrina,18,Black,MS,Lowndes,77,1990,1995,5,23,21,44,
+0.218889985,935,Ferrara,Vincent,36,Caucasian,F-MA,,22,1992,2005,13,49,11,60,
+0.389091112,936,Kniffen,Scott,28,Caucasian,CA,Kern,64,1984,1996,12,40,20,60,
+0.31900364,937,Gates,Donald Eugene,30,Black,DC,,27,1982,2009,27,57,7,64,DNA
+0.561982959,938,Manfredi,John,48,Caucasian,NY,Kings,4,1989,1994,5,53,22,75,
+0.050836448,939,Ortiz,Armando Rodriguez,15,Hispanic,CA,Fresno,75,2003,2007,4,19,9,28,
+0.979430896,940,Larkin,Francis,55,Caucasian,F-WI,(Eastern),32,1991,1999,8,63,17,80,
+0.188309605,941,Eastridge,Joseph,28,Caucasian,DC,,58,1975,2005,30,58,11,69,
+0.787639649,942,Charles,Lambert,16,Black,NY,Queens,20,1993,1998,5,21,18,39,
+0.956145023,943,Ollins,Calvin,14,Black,IL,Cook,77,1988,2001,13,27,15,42,DNA
+0.385861509,944,Reser,Pamela Sue,29,Caucasian,OR,Yamhill,79,1999,2002,3,32,14,46,
+0.928671731,945,Snyder,Walter,20,Black,VA,Arlington,45,1986,1993,7,27,23,50,DNA
+0.880840655,946,Likine,Selesa,42,Black,MI,Oakland,0.131506849,2008,2012,4,46,4,50,
+0.649519839,947,Townsend,Jerry,26,Black,FL,Broward,78,1980,2001,21,47,15,62,DNA
+0.170713289,948,Northrop,Alan,28,Caucasian,WA,Clark,23,1993,2010,17,45,6,51,DNA
+0.146385883,949,Souter,Larry Pat,26,Caucasian,MI,Newaygo,40,1992,2005,13,39,11,50,
+0.218040192,950,Glenn,Eugene,41,Black,WI,Milwaukee,20,2002,2003,1,42,13,55,
+0.735506358,951,Fauntleroy,David,22,Black,IL,Cook,70,1986,2009,23,45,7,52,
+0.947398293,952,Tatum,Adam,36,Black,TN,Hamilton,2,2012,2013,1,37,3,40,
+0.558253626,953,Knight,Curtis,35,Black,NJ,Essex,30,1990,2001,11,46,15,61,
+0.679620147,954,Cuevas,Roberto,21,Hispanic,CA,Los Angeles,12,2003,2008,5,26,8,34,
+0.655934204,955,Nnodimele,Martin,47,Black,NY,New York,10,2008,2012,4,51,4,55,
+0.925395262,956,Goudy,Walter,25,Black,IN,Madison,100,1995,2012,17,42,4,46,
+0.286886151,957,Boots,Christopher,19,Caucasian,OR,Lane,22,1987,1995,8,27,21,48,DNA
+0.562958278,958,Elliff,Hicks,23,Caucasian,TX,Nueces,55,1982,2007,25,48,9,57,
+0.565139138,959,Gausvik,Ralph,39,Caucasian,WA,Chelan,23,1995,2000,5,44,16,60,
+0.844873822,960,Wrice,Stanley,28,Black,IL,Cook,72,1983,2013,30,58,3,61,
+0.825565908,961,Miller,Neil,22,Black,MA,Suffolk,35.5,1990,2000,10,32,16,48,DNA
+0.677729241,962,Schulz,Stephen,35,Caucasian,NY,Suffolk,11,1999,2009,10,45,7,52,
+0.852082336,963,Wilson,Robert,41,Black,IL,Cook,30,1999,2006,7,48,10,58,
+0.245842331,964,Mayes,Larry,30,Black,IN,Lake,80,1982,2001,19,49,15,64,DNA
+0.705169506,965,Green,Joseph,36,Black,FL,Bradford,78,1993,2000,7,43,16,59,
+0.242391353,966,White,George,36,Caucasian,AL,Coffee,62,1987,1992,5,41,24,65,
+0.64348606,967,Pavlinac,Laverne,57,Caucasian,OR,Multnomah,14,1991,1995,4,61,21,82,
+0.247582187,968,Lopez,George,17,Hispanic,CA,Orange,13,2000,2002,2,19,14,33,
+0.933537451,969,Alvarez,Jesse,19,Hispanic,CA,Los Angeles,12,1996,2001,5,24,15,39,
+0.525546556,970,Scott,Calvin Lee,26,Black,OK,Pontotoc,25,1983,2003,20,46,13,59,DNA
+0.09507899,971,Cox,Michael,43,Caucasian,CA,San Diego,6,1999,2001,2,45,15,60,
+0.663079689,972,Helmig,Dale,37,Caucasian,MO,Osage,74,1996,2011,15,52,5,57,
+0.793323845,973,Hancock,Troy Jon,25,Caucasian,UT,Juab,33,1993,1996,3,28,20,48,DNA
+0.899447292,974,McSherry,Leonard,37,Caucasian,CA,Los Angeles,48,1988,2001,13,50,15,65,DNA
+0.822152371,975,Roberts,Henry Myron,62,Caucasian,MD,Baltimore City,50,1992,2002,10,72,14,86,
+0.714107122,976,"Jacobs, Jr.",Ralph A.,30,Caucasian,IN,Henry,8,1991,1993,2,32,23,55,
+0.938355318,977,Perez,Duarnis,27,Hispanic,F-NY,(Northern),4.75,2000,2006,6,33,10,43,
+0.30744427,978,Stonehouse,Carol,41,Caucasian,PA,Allegheny,10.5,1983,1990,7,48,26,74,
+0.285686075,979,Rachell,Ricardo,45,Hispanic,TX,Harris,40,2003,2009,6,51,7,58,DNA
+0.678417707,980,Lee,Han Tak,54,Asian,PA,Monroe,66,1990,2015,25,79,1,80,
+0.593960293,981,Graham,Michael,23,Caucasian,LA,Union,78,1987,2000,13,36,16,52,
+0.216560749,982,Gantt,Timothy,47,Black,CA,Los Angeles,80,1994,2008,14,61,8,69,
+0.966485531,983,Gathers,Gary,17,Black,DC,,54,1994,2015,21,38,1,39,
+0.992805762,984,Fogle,Lewis,24,Caucasian,PA,Indiana,70,1982,2015,33,57,1,58,DNA
+0.153862009,985,Hoehmann,Joseph,35,Caucasian,NY,Rockland,1,1996,1998,2,37,18,55,
+0.276320797,986,Carrillo,Francisco,15,Hispanic,CA,Los Angeles,79,1992,2011,19,34,5,39,
+0.556815305,987,Witt,Drayton,18,Caucasian,AZ,Maricopa,20,2002,2012,10,28,4,32,
+0.148090681,988,Simmons III,Tommy,35,Black,CA,Los Angeles,64,1998,2003,5,40,13,53,
+0.807095354,989,"Calderon, III",Domingo,26,Hispanic,TX,Atascosa,10,2005,2010,5,31,6,37,
+0.371321724,990,Griffin,Reginald,22,Black,MO,Randolph,70,1988,2013,25,47,3,50,
+0.50119859,991,Waller,James,25,Black,TX,Dallas,30,1983,2007,24,49,9,58,DNA
+0.019662855,992,Moore,Daniel Wade,24,Caucasian,AL,Morgan,67,2002,2009,7,31,7,38,
+0.564305415,993,Chapman,Glen Edward,24,Black,NC,Catawba,78,1994,2008,14,38,8,46,
+0.773997524,994,Verkuilen,Maxwell,25,Caucasian,WI,Outagamie,4,2003,2007,4,29,9,38,
+0.814545293,995,Davalos,Luis,16,Hispanic,CA,Los Angeles,12,1996,2001,5,21,15,36,
+0.089068359,996,Trulove,Jamal,25,Black,CA,San Francisco,83,2010,2015,5,30,1,31,
+0.931029345,997,Bauer,Chester,26,Caucasian,MT,Silver Bow,30,1983,1997,14,40,19,59,DNA
+0.199974462,998,LaBatte,Beth,24,Caucasian,WI,Kewaunee,68,1997,2006,9,33,10,43,DNA
+0.171644319,999,Andre,Eddie,41,Black,NY,Queens,49,1988,1994,6,47,22,69,
+0.347883432,1000,Sinegal,Layo,37,Black,AK,Petersburg,5,1995,2000,5,42,16,58,
+0.796656802,1001,Arroyo,Rogelio,25,Hispanic,IL,Cook,67,1982,1991,9,34,25,59,
+0.012316232,1002,Ochoa,James,19,Hispanic,CA,Orange,2,2005,2006,1,20,10,30,DNA
+0.805644651,1003,Zinkiewicz,Tyrone,38,Caucasian,OH,Montgomery,10,1988,1992,4,42,24,66,
+0.799700757,1004,Killian,Gloria,35,Caucasian,CA,Sacramento,49,1986,2002,16,51,14,65,
+0.473764553,1005,Webb,Mark,22,Caucasian,TX,Tarrant,30,1987,2001,14,36,15,51,DNA
+0.099488087,1006,James,Henry,20,Black,LA,Jefferson,74,1982,2011,29,49,5,54,DNA
+0.360662064,1007,McGhee,Curtis,17,Black,IA,Pottawattamie,74,1978,2011,33,50,5,55,
+0.911758431,1008,Thomas,Victor Larue,26,Black,TX,Ellis,77,1986,2001,15,41,15,56,DNA
+0.936476729,1009,VonAllmen,Michael,24,Caucasian,KY,Jefferson,35,1982,2010,28,52,6,58,
+0.413360796,1010,Torres,Jesus,29,Hispanic,NY,Bronx,32.5,1986,1990,4,33,26,59,
+0.888662582,1011,Smith,Jay C.,50,Caucasian,PA,Dauphin,56,1986,1992,6,56,24,80,
+0.538175307,1012,Weimer,Howard,57,Caucasian,CA,Kern,42,1985,2005,20,77,11,88,
+0.061938263,1013,Rodrigues,Shaun,20,Other,HI,Hawaii,20,2002,2014,12,32,2,34,
+0.572251667,1014,Hill,James,17,Black,IN,Lake,35,1982,2009,27,44,7,51,
+0.854319999,1015,Scott,Samuel,28,Black,GA,Chatham,69,1987,2002,15,43,14,57,DNA
+0.014470673,1016,Sosnovske,John,39,Caucasian,OR,Multnomah,53,1991,1995,4,43,21,64,
+0.930101488,1017,Jones,Ronald,34,Black,IL,Cook,75,1989,1999,10,44,17,61,DNA
+0.995603511,1018,Byrd,Kevin,23,Black,TX,Harris,70,1985,1997,12,35,19,54,DNA
+0.42021712,1019,Mack,Norman,25,Black,TX,Harris,0.5,2005,2006,1,26,10,36,
+0.185184647,1020,Bragdon,Anthony,19,Black,DC,,30,1992,2003,11,30,13,43,
+0.165117663,1021,Galli,Aaron,22,Caucasian,UT,Salt Lake,40,1993,1993,0,22,23,45,
+0.163203434,1022,Woten,Michael Anthony,19,Caucasian,TX,Dallas,55,1982,1990,8,27,26,53,
+0.397121894,1023,Courteau,Paul,20,Caucasian,RI,Providence,15,1981,1999,18,38,17,55,
+0.090298105,1024,Hockersmith,Letha Jean,31,Caucasian,OK,Tulsa,79,1994,1999,5,36,17,53,
+0.365168512,1025,Jeffers,John,14,Caucasian,IN,Knox,34,1977,2003,26,40,13,53,
+0.634090943,1026,Tice,Derek,27,Caucasian,VA,Norfolk City,63,2000,2011,11,38,5,43,
+0.606185003,1027,Roesser,Christopher,25,Caucasian,GA,Gwinnett,69,2008,2013,5,30,3,33,
+0.184768198,1028,Smith,Sylvester,32,Black,NC,Brunswick,67,1984,2004,20,52,12,64,
+0.194852212,1029,Criner,Roy,21,Caucasian,TX,Montgomery,76,1990,2000,10,31,16,47,DNA
+0.654431306,1030,Carnes,Linda,26,Caucasian,TX,Wharton,5,2014,2014,0,26,2,28,
+0.854840829,1031,Mason,Terrence,32,Black,NY,Queens,15,1987,1995,8,40,21,61,
+0.504045609,1032,Register,Kash,18,Black,CA,Los Angeles,72,1979,2013,34,52,3,55,
+0.058694108,1033,Broam,Jack Ray,29,Caucasian,NV,Churchill,77,1990,1998,8,37,18,55,
+0.384952498,1034,Miller,Maurice Ladon,18,Black,OK,Oklahoma,72,2005,2007,2,20,9,29,
+0.322160285,1035,Waller,Patrick,20,Black,TX,Dallas,72,1992,2008,16,36,8,44,DNA
+0.731127878,1036,Fergeson,Latanya,29,Black,TX,Harris,0.583333333,2008,2015,7,36,1,37,
+0.350551893,1037,Brown,Debra,35,Caucasian,UT,Cache,69,1995,2013,18,53,3,56,
+0.67802185,1038,Greco,Louis,47,Caucasian,MA,Suffolk,54,1968,2001,33,80,15,95,
+0.468464959,1039,Lawson,Samuel,28,Caucasian,OR,Douglas,66,2005,2014,9,37,2,39,
+0.2082523,1040,Ellis,Andre,35,Black,AL,Pike,85,2013,2014,1,36,2,38,
+0.276371065,1041,Courtney,Uriah,25,Caucasian,CA,San Diego,76,2006,2013,7,32,3,35,DNA
+0.286647008,1042,McCarty,Curtis,20,Caucasian,OK,Oklahoma,75,1986,2007,21,41,9,50,DNA
+0.011717054,1043,Sanders,Rodell,28,Black,IL,Cook,80,1995,2014,19,47,2,49,
+0.566687331,1044,Moore,Joshua,19,Caucasian,CA,Orange,12,1999,2001,2,21,15,36,
+0.96402892,1045,Brown,Keith,25,Black,NC,Wilson,35,1993,1999,6,31,17,48,DNA
+0.306130512,1046,Gauger,Gary,41,Caucasian,IL,McHenry,74,1993,1996,3,44,20,64,
+0.084453371,1047,Pena,Jose Luis,36,Hispanic,TX,Leon,79,2003,2011,8,44,5,49,
+0.809277332,1048,Shull,George Edward,30,Caucasian,CA,Santa Clara,5,1989,2009,20,50,7,57,
+0.95306529,1049,Norwood,Matthew,15,Black,MS,Hinds,15,1997,2010,13,28,6,34,
+0.524456226,1050,Hernandez,Francisco,26,Hispanic,CA,Monterey,57,2002,2005,3,29,11,40,
+0.558638825,1051,"Oxley, Jr.",Wayne,39,Caucasian,NY,St. Lawrence,40,2006,2012,6,45,4,49,
+0.981940158,1052,Barber,Jason,21,Caucasian,TX,Upshur,35,1997,2000,3,24,16,40,
+0.087372046,1053,Smith,Frank Lee,37,Black,FL,Broward,57,1986,2000,14,51,16,67,DNA
+0.754100272,1054,Simmons,James,47,Black,WA,King,1,2007,2010,3,50,6,56,
+0.107188124,1055,Fowler,Lawrence,37,Black,NY,Bronx,41,1998,2006,8,45,10,55,
+0.59849016,1056,Zomber,Michael,53,Caucasian,F-PA,(Eastern),2.5,2003,2009,6,59,7,66,
+0.491983541,1057,Hood,Tyrone,29,Black,IL,Cook,75,1996,2015,19,48,1,49,
+0.932167681,1058,Patterson,Javon,25,Black,IL,Cook,6,2007,2010,3,28,6,34,
+0.133928855,1059,Armstrong,Richard,25,Caucasian,MI,Otsego,14.66666667,2006,2012,6,31,4,35,
+0.601892497,1060,Schand,Mark,21,Black,MA,Hampden,76,1987,2013,26,47,3,50,
+0.556282186,1061,Goff,Antoine,19,Black,CA,San Francisco,52,1990,2003,13,32,13,45,
+0.931861068,1062,Dixon,Isaac,26,Black,TX,Harris,0.246575342,2014,2015,1,27,1,28,
+0.469757859,1063,Girts,Jason,22,Caucasian,KY,Bullitt,7,2006,2008,2,24,8,32,
+0.572092945,1064,Celestino,Juan,41,Hispanic,OH,Sandusky,57,1991,1995,4,45,21,66,
+0.657137311,1065,Maher,Dennis,22,Caucasian,MA,Middlesex,79,1984,2003,19,41,13,54,DNA
+0.816261791,1066,Wilson,Harold C.,30,Black,PA,Philadelphia,77,1989,2005,16,46,11,57,DNA
+0.244552107,1067,Zimmer,Walter,40,Caucasian,OH,Cuyahoga,50,1998,2011,13,53,5,58,DNA
+0.471106048,1068,Veltmann,Carl,62,Caucasian,F-FL,(Middle),43,1992,1996,4,66,20,86,
+0.398205886,1069,Cardenas,Napoleon,24,Hispanic,NY,Queens,22.5,1999,2007,8,32,9,41,
+0.29593468,1070,Berry,Wilder,20,Black,IL,Cook,35,1992,2000,8,28,16,44,
+0.791775762,1071,Washington,Darryl,24,Black,TX,Dallas,79,1996,2012,16,40,4,44,
+0.67870179,1072,McCollum,Henry,19,Black,NC,Robeson,76,1984,2014,30,49,2,51,DNA
+0.08991601,1073,Keifer,Lee,25,Caucasian,OK,Tulsa,67,1993,1997,4,29,19,48,
+0.387494052,1074,Dotson,Gary,20,Caucasian,IL,Cook,37.5,1979,1989,10,30,27,57,DNA
+0.270119323,1075,Tennison,John,17,Black,CA,San Francisco,45,1990,2003,13,30,13,43,
+0.165608723,1076,Kinge,Shirley,54,Black,NY,Tompkins,31,1990,1992,2,56,24,80,
+0.49085452,1077,Manning,Jay Cee,28,Caucasian,NV,Churchill,63,1990,1998,8,36,18,54,
+0.732296963,1078,Johnson,Rickey,26,Black,LA,Sabine,74,1983,2008,25,51,8,59,DNA
+0.724827678,1079,Grega,John,32,Caucasian,VT,Windham,79,1995,2013,18,50,3,53,DNA
+0.71274838,1080,Cruz,Efren,22,Hispanic,CA,Santa Barbara,79,1997,2001,4,26,15,41,
+0.554486741,1081,Salce,Lydia,50,Caucasian,NY,Saratoga,16,2012,2015,3,53,1,54,
+0.028387008,1082,Dabb,Wayne,56,Caucasian,MI,Dickinson,9.5,2005,2008,3,59,8,67,
+0.051323217,1083,Austin,Michael,25,Black,MD,Baltimore City,70,1975,2002,27,52,14,66,
+0.951686981,1084,Amirault,Violet,59,Caucasian,MA,Middlesex,20,1987,1998,11,70,18,88,
+0.891118282,1085,Minsky,Gerald,42,Caucasian,F-KY,(Eastern),1.5,1991,1992,1,43,24,67,
+0.703599667,1086,Hicks,Anthony,26,Black,WI,Dane,19,1991,1997,6,32,19,51,DNA
+0.332102534,1087,Stewart,Zackary Lee,18,Caucasian,MO,Greene,72,2008,2010,2,20,6,26,DNA
+0.897992984,1088,Nobles,Glen,52,Black,TX,Sabine,10,2013,2015,2,54,1,55,
+0.301448734,1089,Daniels,Erick,14,Black,NC,Durham,12,2001,2008,7,21,8,29,
+0.314665012,1090,Grafton,Marjorie,52,Caucasian,CA,Kern,16,1985,1990,5,57,26,83,
+0.547934372,1091,Crawford,Bradley,47,Caucasian,OK,Oklahoma,0.5,2003,2004,1,48,12,60,
+0.458981806,1092,Johnson,Patrick,22,Black,NY,Kings,17,1983,1993,10,32,23,55,
+0.567126021,1093,Greene,Cy,19,Black,NY,Kings,19,1985,2006,21,40,10,50,DNA
+0.613945388,1094,Clark,Robert,20,Black,GA,Cobb,75,1982,2005,23,43,11,54,DNA
+0.689100519,1095,Smythe,Jamar,30,Black,NY,Westchester,15,2013,2015,2,32,1,33,
+0.729766069,1096,Lindsey,Johnnie,28,Black,TX,Dallas,76,1983,2009,26,54,7,61,DNA
+0.397343812,1097,"Miller, Jr.",Jesse,17,Black,FL,Palm Beach,80,2009,2014,5,22,2,24,
+0.926194447,1098,Beamon,Melvin Todd,24,Black,AL,Montgomery,25,1989,1990,1,25,26,51,
+0.654445294,1099,Tribble,Santae,17,Black,DC,,37,1980,2012,32,49,4,53,DNA
+0.60899138,1100,Edmunds,Audrey,34,Caucasian,WI,Dane,18,1996,2008,12,46,8,54,
+0.680090553,1101,Brown,Joyce Ann,33,Black,TX,Dallas,42,1980,1990,10,43,26,69,
+0.108147444,1102,Avery,William,25,Black,WI,Milwaukee,40,2005,2010,5,30,6,36,DNA
+0.386916539,1103,Randolph,Guy,33,Black,MA,Suffolk,10,1991,2008,17,50,8,58,
+0.947389362,1104,Pichardo,Juan Carlos,23,Hispanic,NY,New York,50,1994,2000,6,29,16,45,
+0.771567023,1105,Lindstadt,George,42,Caucasian,NY,Suffolk,18.5,1989,2001,12,54,15,69,
+0.895118615,1106,Conteh,Maligie,19,Black,VA,Fairfax,2,2010,2013,3,22,3,25,
+0.901723529,1107,Curlin,Anthony,39,Black,TX,Dallas,35,1997,2000,3,42,16,58,
+0.550521674,1108,Williams,Jimmy,20,Black,OH,Summit,70,1991,2001,10,30,15,45,
+0.204472201,1109,Grandson,Dwight,17,Black,DC,,42,2006,2011,5,22,5,27,
+0.108296116,1110,Highers,Thomas,21,Caucasian,MI,Wayne,79,1988,2013,25,46,3,49,
+0.598573865,1111,Vasquez,Rogelio,24,Caucasian,TX,Harris,0.02739726,2014,2014,0,24,2,26,
+0.517630139,1112,Daidone,Albert,38,Caucasian,PA,Philadelphia,77,1984,1999,15,53,17,70,
+0.535306156,1113,Ballinger,Gene Curtis,45,Caucasian,NM,Grant,9,1981,1993,12,57,23,80,
+0.684588123,1114,Davis,Carlos,18,Black,NY,Kings,11.25,1991,2015,24,42,1,43,
+0.711269605,1115,Cservak,Wayne,20,Caucasian,GA,Whitfield,10,1997,1997,0,20,19,39,
+0.922826854,1116,Everett,Idella,41,Caucasian,WA,Chelan,4.6,1994,1998,4,45,18,63,
+0.638834456,1117,Crivens,Algie,18,Black,IL,Cook,20,1992,2000,8,26,16,42,
+0.022339765,1118,Robinson,Eric,23,Black,CA,Los Angeles,70,1994,2007,13,36,9,45,DNA
+0.716713789,1119,Siller,Thomas,41,Caucasian,OH,Cuyahoga,54,1998,2011,13,54,5,59,DNA
+0.275018057,1120,Melendez,Juan Roberto,32,Hispanic,FL,Polk,77,1984,2002,18,50,14,64,
+0.38185192,1121,Gavitt,David Lee,26,Caucasian,MI,Ionia,66,1986,2012,26,52,4,56,
+0.72517134,1122,Cole,Reggie,18,Black,CA,Los Angeles,79,1994,2009,15,33,7,40,
+0.024094057,1123,Hanline,Michael,31,Caucasian,CA,Ventura,62,1980,2015,35,66,1,67,DNA
+0.840903484,1124,Dove,Gayle,41,Caucasian,TX,El Paso,50,1986,1989,3,44,27,71,
+0.447521875,1125,Ford,Glenn,34,Black,LA,Caddo,61,1984,2014,30,64,2,66,
+0.42679835,1126,Smith,William,24,Caucasian,NM,Bernalillo,77,1978,1996,18,42,20,62,
+0.752535993,1127,Moreno,Noe,26,Hispanic,NC,Mecklenburg,20,2007,2012,5,31,4,35,
+0.563782716,1128,Nesmith,Willie James,20,Black,PA,Cumberland,17,1982,2001,19,39,15,54,DNA
+0.102295678,1129,Larson,Robert E.,27,Caucasian,WA,Spokane,20,2009,2013,4,31,3,34,
+0.022166964,1130,Piaskowski,Michael,43,Caucasian,WI,Brown,47,1995,2001,6,49,15,64,
+0.084003888,1131,Vasquez,Mario,34,Hispanic,WI,Brown,20,1998,2015,17,51,1,52,
+0.039717366,1132,Eze,Louis,31,Black,NY,Erie,58,1993,2007,14,45,9,54,
+0.363436508,1133,Beaman,Alan W.,20,Caucasian,IL,McLean,50,1995,2009,14,34,7,41,
+0.393815796,1134,Mitchell,Keith,18,Black,DC,,45,1994,2015,21,39,1,40,
+0.592013243,1135,Guillory,Lavont,21,Black,CA,Los Angeles,80,1994,2005,11,32,11,43,DNA
+0.893271808,1136,Chatman,Carl,47,Black,IL,Cook,30,2004,2013,9,56,3,59,
+0.682064872,1137,Leblanc,David,43,Caucasian,TX,Harris,0.02739726,2014,2014,0,43,2,45,
+0.847909329,1138,Chew,Andrew,29,Black,TX,Harris,0.082191781,2008,2015,7,36,1,37,
+0.173340162,1139,"Housler, Jr.",David,19,Caucasian,TN,Montgomery,79,1997,2014,17,36,2,38,
+0.874336075,1140,Holsomback,John,33,Caucasian,AL,Shelby,25,1988,2000,12,45,16,61,
+0.291194551,1141,Baker,Jimmy Lee,22,Caucasian,OK,Bryan,77,2009,2010,1,23,6,29,
+0.977097727,1142,Mikes,Melvin,19,Black,CA,Los Angeles,25,1985,1992,7,26,24,50,
+0.592849708,1143,Showers,Kurtis DeAngelo,28,Black,MI,Wayne,78,1994,1998,4,32,18,50,
+0.456594022,1144,Hall,Tony,25,Caucasian,TX,Angelina,15,1993,2011,18,43,5,48,
+0.99511139,1145,Cooper,Anthony,24,Caucasian,OK,Tulsa,50,1995,1999,4,28,17,45,
+0.188207714,1146,Cunningham,Calvin Wayne,26,Black,VA,Newport News,16,1981,2011,30,56,5,61,DNA
+0.058982021,1147,Garza,Michael,28,Caucasian,TX,Harris,0.833333333,2014,2014,0,28,2,30,
+0.040430184,1148,Ortiz,Luis,18,Hispanic,IL,Cook,77,2000,2003,3,21,13,34,
+0.077749381,1149,Wilson,Edwin,49,Caucasian,F-VA,(Eastern),17,1983,2004,21,70,12,82,
+0.455012294,1150,Arledge,Randolph,26,Caucasian,TX,Navarro,76,1984,2013,29,55,3,58,DNA
+0.360886853,1151,Anthony,Obie,19,Black,CA,Los Angeles,76,1995,2011,16,35,5,40,
+0.270170632,1152,Nelson,Terry Lee,37,Caucasian,IL,St. Clair,40,1989,1994,5,42,22,64,
+0.331497878,1153,Quick,Wesley,18,Caucasian,AL,Jefferson,78,1997,2003,6,24,13,37,
+0.964867719,1154,Bradford,Ted,23,Caucasian,WA,Yakima,13,1996,2010,14,37,6,43,DNA
+0.973341206,1155,Owens,James L.,22,Caucasian,MD,Baltimore City,78,1988,2008,20,42,8,50,DNA
+0.482465768,1156,Youngblood,Larry,30,Black,AZ,Pima,10,1985,2000,15,45,16,61,DNA
+0.966961071,1157,Young,Dan,30,Black,IL,Cook,66,1994,2005,11,41,11,52,DNA
+0.602409086,1158,Bolduc,Frank,42,Caucasian,F-WI,(Eastern),48,1991,1999,8,50,17,67,
+0.219894844,1159,Dixon,Donald,18,Black,MO,Jackson,79,1985,2001,16,34,15,49,
+0.590180524,1160,McCuan,Alvin,28,Caucasian,CA,Kern,63,1984,1996,12,40,20,60,
+0.499419299,1161,Wallach,E. Robert,50,Caucasian,F-NY,(Southern),6,1989,1993,4,54,23,77,
+0.093331683,1162,Palmer,Lamar,19,Black,NY,Queens,9,2000,2001,1,20,15,35,
+0.681603531,1163,Haley,James,24,Black,MA,Suffolk,79,1972,2008,36,60,8,68,
+0.105102093,1164,Mitchell,Perry,20,Black,SC,Lexington,30,1984,1998,14,34,18,52,DNA
+0.267783841,1165,Strickland,Reshenda,24,Black,WA,Clark,0.5,2004,2004,0,24,12,36,
+0.289602583,1166,Wilson,Sharrif,15,Black,NY,Kings,34,1994,2014,20,35,2,37,DNA
+0.396136212,1167,Shepard,Charles,24,Black,NY,Kings,29,1988,2001,13,37,15,52,
+0.537427504,1168,"Bivens, Jr.",Darrell Wayne,33,Black,TX,Collin,3,2013,2013,0,33,3,36,
+0.283128018,1169,Harris,Warren,29,Black,IL,Cook,84,1977,1990,13,42,26,68,
+0.149077501,1170,Miller,Billy Wayne,31,Black,TX,Dallas,69,1984,2006,22,53,10,63,DNA
+0.955322054,1171,Livingston,Christopher,19,Black,NY,Kings,49,1987,1991,4,23,25,48,
+0.070203804,1172,Colon,Danny,26,Hispanic,NY,New York,59,1993,2011,18,44,5,49,
+0.062029877,1173,Good,Donald Wayne,21,Caucasian,TX,Dallas,78,1984,2004,20,41,12,53,DNA
+0.313160563,1174,DiNicola,Louis,29,Caucasian,PA,Erie,63,1980,1994,14,43,22,65,
+0.007269508,1175,Cortez,Arturo,34,Hispanic,CA,Los Angeles,7,1998,2003,5,39,13,52,
+0.669720256,1176,Polonia,Diomedes,26,Hispanic,NY,Bronx,10.66666667,1998,2003,5,31,13,44,
+0.097474378,1177,Wong,David,23,Asian,NY,Clinton,61,1987,2004,17,40,12,52,
+0.882224248,1178,Polk,Eric,27,Black,TX,Harris,0.5,2014,2015,1,28,1,29,
+0.945741466,1179,Tedtaotao,Jathan,18,Other,GU,,21,2014,2015,1,19,1,20,
+0.152556939,1180,Parker,Michael,35,Caucasian,NC,Henderson,56,1994,2014,20,55,2,57,
+0.47545976,1181,Byars,Barry,24,Caucasian,TX,Jefferson,10,2004,2005,1,25,11,36,
+0.097153005,1182,Moore,Kenneth,29,Black,TX,Galveston,2,2014,2015,1,30,1,31,
+0.323847322,1183,Cameron,Ronjon,52,Caucasian,MA,Berkshire,14,2003,2015,12,64,1,65,DNA
+0.515641338,1184,Perrington,Donald,30,Black,NY,New York,8,2008,2014,6,36,2,38,
+0.071858553,1185,Brandley,Clarence,29,Black,TX,Montgomery,65,1981,1990,9,38,26,64,
+0.971375078,1186,Ware,Melonie,30,Black,GA,DeKalb,70,2005,2009,4,34,7,41,
+0.530238476,1187,Carter,Richy,30,Black,WA,Pierce,1.1,2007,2013,6,36,3,39,
+0.767367849,1188,Baker,Edward,17,Black,PA,Philadelphia,76,1974,2002,28,45,14,59,
+0.392908294,1189,Stewart,Kia,17,Black,LA,Orleans,78,2009,2015,6,23,1,24,
+0.208797302,1190,Cage,Dean,28,Black,IL,Cook,40,1996,2008,12,40,8,48,DNA
+0.319311549,1191,Walker,Quedillis Ricardo,34,Hispanic,CA,Santa Clara,46,1991,2003,12,46,13,59,DNA
+0.240892878,1192,Burnette,Victor,26,Caucasian,VA,Richmond City,20,1979,2009,30,56,7,63,DNA
+0.70547236,1193,Sarsfield,Eric,23,Caucasian,MA,Middlesex,12.5,1987,2000,13,36,16,52,DNA
+0.247401769,1194,Grady,Nathaniel,43,Black,NY,Bronx,45,1986,1997,11,54,19,73,
+0.461141387,1195,Green,Michael Anthony,18,Black,TX,Harris,75,1983,2010,27,45,6,51,DNA
+0.296193956,1196,Diaz,Luis,20,Hispanic,CA,Santa Clara,15,1984,2012,28,48,4,52,
+0.355825427,1197,Pondexter,Ronald,22,Black,NY,Kings,48,1993,1997,4,26,19,45,
+0.543938795,1198,Jones,Tyrone,20,Black,MD,Baltimore City,71,1999,2010,11,31,6,37,
+0.631530545,1199,Castillo,Miguel,35,Hispanic,IL,Cook,48,1991,2001,10,45,15,60,
+0.574472705,1200,Alvarado,Victor,26,Hispanic,IL,Cook,6,2012,2013,1,27,3,30,
+0.054414529,1201,Banks,Medell,27,Black,AL,Choctaw,15,2001,2003,2,29,13,42,
+0.644796886,1202,Hopkins,Troy,23,Black,VA,Richmond City,28,1990,2005,15,38,11,49,
+0.343955907,1203,Wardell,Billy,21,Black,IL,Cook,69,1988,1997,9,30,19,49,DNA
+0.931874348,1204,Robinson,Derrick,30,Black,FL,Miami-Dade,7,1989,1991,2,32,25,57,
+0.830199667,1205,Cash,Jacob,23,Caucasian,FL,Hillsborough,50,1998,2008,10,33,8,41,
+0.782601198,1206,Pierpoint,Jonathan Scott,28,Caucasian,NC,Madison,74,1992,2010,18,46,6,52,
+0.664601582,1207,Logan,Roger,35,Black,NY,Kings,26,1999,2014,15,50,2,52,
+0.055862769,1208,Hughes,Elicia,32,Black,MS,Hinds,69,2007,2007,0,32,9,41,
+0.517462132,1209,"Webb, III",Thomas,22,Black,OK,Cleveland,60,1983,1996,13,35,20,55,DNA
+0.632240486,1210,Adams,Don Ray,32,Black,PA,Philadelphia,64,1992,2011,19,51,5,56,
+0.515373752,1211,Blake,Jeffrey,21,Black,NY,Kings,42,1991,1998,7,28,18,46,
+0.142449562,1212,Willis,Cedric,19,Black,MS,Hinds,72,1997,2006,9,28,10,38,DNA
+0.497568479,1213,Pohlschneider,Larry,33,Caucasian,CA,Tehama,24,2001,2015,14,47,1,48,
+0.606498256,1214,Harris,Benjamin,37,Black,WA,Pierce,75,1984,1997,13,50,19,69,
+0.622402757,1215,Colton,Murray,20,Caucasian,CT,New Haven,50,1991,1998,7,27,18,45,
+0.171710194,1216,Thompson,Stephen,24,Caucasian,TX,Dallas,30,1991,2006,15,39,10,49,
+0.950085177,1217,Arrington,Jermaine,19,Black,MD,Montgomery,25,1995,2010,15,34,6,40,DNA
+0.970005571,1218,Webb,Troy,19,Black,VA,Virginia Beach,47,1989,1996,7,26,20,46,DNA
+0.970843087,1219,Varela,Ignacio,42,Hispanic,IL,Cook,52,1982,1991,9,51,25,76,
+0.366686547,1220,Highers,Raymond,20,Caucasian,MI,Wayne,74,1988,2013,25,45,3,48,
+0.057985245,1221,Purvis,John,41,Caucasian,FL,Broward,49,1985,1993,8,49,23,72,
+0.403382255,1222,Carter,Raymond,40,Black,PA,Philadelphia,67,1988,1996,8,48,20,68,
+0.181524622,1223,Phinney,Roland,36,Caucasian,MA,Middlesex,73,1990,2008,18,54,8,62,
+0.943090213,1224,Miller,Benjamin,42,Caucasian,CT,Fairfield,25,1973,1989,16,58,27,85,
+0.471861384,1225,Knapper,Isaac,17,Black,LA,Orleans,79,1979,1991,12,29,25,54,
+0.453923799,1226,Cruz,Jerome,24,Hispanic,NY,Kings,1,2007,2007,0,24,9,33,
+0.140755959,1227,Okongwu,Dominic,41,Black,NY,Erie,50,1993,2011,18,59,5,64,
+0.040531729,1228,Briggs,Brandy,19,Caucasian,TX,Harris,17,2000,2006,6,25,10,35,
+0.986792082,1229,Cosme,Michael,19,Black,NY,Bronx,41,1997,2013,16,35,3,38,
+0.617260761,1230,Sheffield,Paul,47,Caucasian,UT,Cache,25,1987,1990,3,50,26,76,
+0.713052321,1231,Burton,Darryl,22,Black,MO,Cole,77,1985,2008,23,45,8,53,
+0.930953645,1232,Brodie,Stephen,19,Caucasian,TX,Dallas,5,1993,2010,17,36,6,42,
+0.288156043,1233,Craine,Leonard,37,Black,NV,Clark,59,1990,2002,12,49,14,63,
+0.899631488,1234,McGee,Leroy,23,Black,FL,Broward,4.5,1991,1995,4,27,21,48,
+0.160674072,1235,Gurley,Larry,20,Black,NY,Kings,27,1972,1994,22,42,22,64,
+0.754319012,1236,Henton,Eugene,16,Black,TX,Dallas,4,1984,2006,22,38,10,48,DNA
+0.421313337,1237,Dillon,William,21,Caucasian,FL,Brevard,80,1981,2008,27,48,8,56,DNA
+0.066498407,1238,Macias,Federico,31,Hispanic,TX,El Paso,75,1984,1993,9,40,23,63,
+0.517335643,1239,Johnson,Anthony,17,Black,IL,Cook,47,2007,2014,7,24,2,26,
+0.342477899,1240,Elmardoudi,Abdel-Ilah,35,Other,F-MI,(Eastern),15,2003,2004,1,36,12,48,
+0.882541415,1241,Johnson,Anthony,27,Black,LA,Washington,74,1986,2010,24,51,6,57,DNA
+0.311890632,1242,Williams,Dennis,21,Black,IL,Cook,73,1978,1996,18,39,20,59,DNA
+0.445879238,1243,Kunze,David,44,Caucasian,WA,Clark,65,1997,2001,4,48,15,63,
+0.266509202,1244,Williams,Alfred,53,Black,TX,Harris,30,1987,1989,2,55,27,82,
+0.828395681,1245,Bradford,Ty,39,Caucasian,MT,Gallatin,10,1999,2003,4,43,13,56,
+0.10331829,1246,Belcher,Michael,21,Caucasian,OH,Franklin,20,1999,2001,2,23,15,38,
+0.92724879,1247,Johnson,Johnnie,18,Black,CT,New Haven,75,2001,2013,12,30,3,33,
+0.221296759,1248,Butler,Robert,34,Black,TN,Knox,73,1977,1995,18,52,21,73,
+0.889063485,1249,Bellamy,Kareem,26,Black,NY,Queens,49,1995,2011,16,42,5,47,
+0.797229145,1250,Chatman,Charles,20,Black,TX,Dallas,73,1981,2008,27,47,8,55,DNA
+0.740890321,1251,Baillie,Nissa,20,Caucasian,FL,Hillsborough,15,1997,2001,4,24,15,39,
+0.85938067,1252,Wallis,Gregory,27,Caucasian,TX,Dallas,50,1989,2007,18,45,9,54,DNA
+0.162871584,1253,Cotton,Ronald,22,Black,NC,Alamance,79,1985,1995,10,32,21,53,DNA
+0.679799764,1254,"Scamardo, Jr.",Joseph Anthony,35,Caucasian,AR,Sebastian,12,2010,2013,3,38,3,41,
+0.196951909,1255,Howard,Stanley,21,Black,IL,Cook,73,1987,2003,16,37,13,50,
+0.252911443,1256,York,Kenneth,38,Caucasian,MO,Vernon,76,1994,2010,16,54,6,60,DNA
+0.981427768,1257,Roberts,Rodney,29,Black,NJ,Essex,7,1996,2014,18,47,2,49,DNA
+0.601460179,1258,McCray,Brian,24,Black,VA,Norfolk City,43,1993,1994,1,25,22,47,
+0.533698959,1259,Horton,Alice,20,Caucasian,TX,Angelina,3,2012,2013,1,21,3,24,
+0.816417849,1260,Rea,Julie,28,Caucasian,IL,Lawrence,65,2002,2006,4,32,10,42,
+0.348606238,1261,Bibbins,Gene,29,Black,LA,LA Parish,66,1987,2003,16,45,13,58,DNA
+0.074230585,1262,Mora,Raymond,25,Hispanic,NY,Kings,34,1981,2015,34,59,1,60,
+0.811636245,1263,Persad,Vishnu,23,Other,FL,Palm Beach,43,2001,2007,6,29,9,38,
+0.000799381,1264,Jones,Lydia Diane,40,Black,AL,Jefferson,78,2000,2006,6,46,10,56,
+0.757688662,1265,Newton,Alan,21,Black,NY,Bronx,26.5,1985,2006,21,42,10,52,DNA
+0.930764351,1266,Trakhtenberg,Jacob,67,Caucasian,MI,Oakland,15,2006,2013,7,74,3,77,
+0.949903471,1267,Brown,Patrick,21,Black,PA,Dauphin,46,2002,2010,8,29,6,35,DNA
+0.831088618,1268,Lyons,Marcus,29,Black,IL,DuPage,6,1988,2007,19,48,9,57,DNA
+0.72866362,1269,Jean,Lesly,22,Black,NC,Onslow,80,1982,1991,9,31,25,56,DNA
+0.862267549,1270,Bates,David,18,Black,IL,Cook,20,1985,2015,30,48,1,49,
+0.783862048,1271,Green,Kevin Lee,20,Caucasian,CA,Orange,30,1980,1996,16,36,20,56,DNA
+0.559035395,1272,Willett,Jeffery,29,Caucasian,WI,Washington,30,2007,2010,3,32,6,38,
+0.959902698,1273,Fields,Nathson Edgar,29,Black,IL,Cook,71,1986,2009,23,52,7,59,
+0.535963523,1274,Coleman,Keith,24,Black,TX,Harris,0.666666667,2006,2013,7,31,3,34,
+0.032382837,1275,Mable,Kendrick,38,Black,TX,Harris,2,2014,2014,0,38,2,40,
+0.018320065,1276,Garner,Terence,16,Black,NC,Wayne,37.5,1998,2002,4,20,14,34,
+0.363408546,1277,Palazzolo,John,48,Caucasian,MI,Wayne,10.5,2006,2012,6,54,4,58,
+0.427886495,1278,Reid,Mark,22,Black,CT,Hartford,12,1997,2003,6,28,13,41,DNA
+0.549725973,1279,Bostic,Larry,31,Black,FL,Broward,8,1989,2007,18,49,9,58,DNA
+0.521379858,1280,Paey,Richard,38,Caucasian,FL,Pasco,25,2004,2007,3,41,9,50,
+0.452282552,1281,Anderson,Roland,32,Black,MS,Hinds,15,1997,2007,10,42,9,51,
+0.610136938,1282,Sharp,Shainnie,16,Black,IL,Cook,20,1994,2011,17,33,5,38,DNA
+0.708580316,1283,Vargas-Cintron,Johnny,34,Hispanic,MA,Middlesex,7,2011,2013,2,36,3,39,
+0.658960817,1284,Jones,Dewey,30,Caucasian,OH,Summit,75,1995,2014,19,49,2,51,DNA
+0.959523245,1285,Powell,Benny,26,Black,CA,Los Angeles,69,1975,1992,17,43,24,67,
+0.477972148,1286,Beal,Kenneth,23,Black,TX,Harris,0.583333333,2007,2015,8,31,1,32,
+0.343157527,1287,Mercer,Michael,40,Black,NY,New York,31,1992,2003,11,51,13,64,DNA
+0.232017319,1288,Thomas,Cameron,24,Black,TX,Harris,1,2014,2014,0,24,2,26,
+0.602113877,1289,Marshall,Ronnie,28,Caucasian,TN,Sumner,66,1990,1996,6,34,20,54,
+0.416733999,1290,Word,Lathan,18,Black,GA,Muscogee,15,2000,2011,11,29,5,34,
+0.150135529,1291,Crosby,Timothy,27,Black,NY,Kings,27,1989,1999,10,37,17,54,
+0.419267472,1292,Brison,Dale,27,Black,PA,Chester,30,1991,1994,3,30,22,52,DNA
+0.901927554,1293,Springsteen,Robert,17,Caucasian,TX,Travis,76,2001,2009,8,25,7,32,DNA
+0.771731616,1294,Hogan,Samuel,49,Black,WI,Milwaukee,6,1995,1997,2,51,19,70,
+0.953667779,1295,Beard,Jacob,34,Caucasian,WV,Pocahontas,56,1993,2000,7,41,16,57,
+0.957783437,1296,Fisher,James,32,Caucasian,F-TX,(Northern),7.25,1995,1997,2,34,19,53,
+0.496108717,1297,Montgomery,Melvin,31,Black,F-MO,(Western),6.5,1995,1997,2,33,19,52,
+0.898198498,1298,Crotzer,Alan,19,Black,FL,Hillsborough,77,1982,2006,24,43,10,53,DNA
+0.712081546,1299,Gaines,Freddie Lee,22,Black,AL,Jefferson,30,1974,1991,17,39,25,64,
+0.274176603,1300,Davis,Larry,36,Caucasian,WA,Clark,20,1993,2010,17,53,6,59,DNA
+0.911781411,1301,Johnson,Craig,27,Black,LA,Orleans,70,1996,1997,1,28,19,47,
+0.796898914,1302,Morillo,Carlos,29,Hispanic,NY,Bronx,30,1993,2011,18,47,5,52,
+0.767397813,1303,Smith,Charles,29,Black,IN,Allen,61,1983,1991,8,37,25,62,
+0.525964591,1304,Kitchen,Ronald,22,Black,IL,Cook,73,1990,2009,19,41,7,48,
+0.543907631,1305,Haygood,Andre,24,Black,TX,Bexar,67,2002,2011,9,33,5,38,
+0.791791272,1306,Boyce,David,19,Caucasian,VA,Newport City,79,1991,2013,22,41,3,44,DNA
+0.944593176,1307,Magnan,Paul Philip,46,Caucasian,CA,Santa Clara,54,2000,2006,6,52,10,62,
+0.762393368,1308,Graves,Anthony,26,Black,TX,Burleson,68,1994,2010,16,42,6,48,
+0.584148967,1309,Williams,Willie,23,Black,GA,Fulton,45,1985,2007,22,45,9,54,DNA
+0.220999964,1310,Gossett,Andrew,37,Caucasian,TX,Dallas,50,2000,2007,7,44,9,53,DNA
+0.855699343,1311,Slater,Willie Lee,43,Black,FL,Orange,64,1999,2009,10,53,7,60,
+0.991478036,1312,Jackson-Knight,Eric,21,Black,NY,Kings,28,1980,1994,14,35,22,57,
+0.429296313,1313,Gardner,Lewis,15,Black,IL,Cook,30,1995,2014,19,34,2,36,
+0.999586018,1314,Avery,Steven,22,Caucasian,WI,Manitowoc,32,1985,2003,18,40,13,53,DNA
+0.60853503,1315,Dewitt,Steven,20,Black,DC,,35,1992,2004,12,32,12,44,
+0.06517521,1316,Lawrence,Darrian Mark,20,Black,FL,Miami-Dade,70,2000,2005,5,25,11,36,
+0.859031073,1317,Stevens,Richard,32,Black,F-NJ,,14,1990,1992,2,34,24,58,
+0.291633332,1318,Canter,Mark,22,Caucasian,MI,Otsego,74,1988,1996,8,30,20,50,
+0.025687137,1319,White,John Jerome,20,Black,GA,Meriwether,76,1980,2007,27,47,9,56,DNA
+0.630646981,1320,Miller,Joel,35,Caucasian,F-CA,(Central),2,2012,2014,2,37,2,39,
+0.489612419,1321,Hinton,Anthony,29,Black,AL,Jefferson,63,1986,2015,29,58,1,59,
+0.238598549,1322,Alvarez,Roy,38,Hispanic,CA,Los Angeles,14,1995,2002,7,45,14,59,
+0.266927393,1323,Fowler,Joel,17,Black,NY,Kings,43,2009,2015,6,23,1,24,
+0.292766003,1324,Williams,Jerron,31,Black,FL,Miami-Dade,50,2013,2015,2,33,1,34,
+0.107414025,1325,Antoine,Narcisse,27,Black,FL,Palm Beach,40,2011,2015,4,31,1,32,DNA
+0.341654569,1326,Tameleo,Henry,63,Caucasian,MA,Suffolk,49,1968,2001,33,96,15,111,
+0.505832613,1327,Bailey,Darryl,17,Black,TN,Shelby,77,1994,2000,6,23,16,39,
+0.374126283,1328,Rollin,Joseph Pierre,45,Caucasian,CA,Humboldt,8,2004,2008,4,49,8,57,
+0.792281057,1329,Carter,Edward,19,Black,MI,Wayne,75,1975,2010,35,54,6,60,
+0.002779111,1330,Smith,Eric,40,Caucasian,F-MIL,,2,2012,2015,3,43,1,44,DNA
+0.574615317,1331,Pack,Phillip,23,Caucasian,TN,Campbell,25,2010,2013,3,26,3,29,
+0.159725701,1332,Johnson,Sophia,23,Other,WA,Clark,43,2003,2005,2,25,11,36,
+0.461861995,1333,Cox,Teresa Lynne,17,Caucasian,CA,Kern,10,1985,2000,15,32,16,48,
+0.522050794,1334,Miller,John,42,Caucasian,TX,Rains,72,1989,1994,5,47,22,69,DNA
+0.089135822,1335,Jackson,Rickie,40,Black,PA,Delaware,61,1998,2000,2,42,16,58,
+0.088724561,1336,Scott,Michael,17,Caucasian,TX,Travis,75,2002,2009,7,24,7,31,DNA
+0.403005017,1337,Johnson,Nathaniel,40,Black,NY,Erie,5,2010,2013,3,43,3,46,
+0.724706007,1338,"Geralds, Jr.",Hubert,30,Black,IL,Cook,77,1997,2000,3,33,16,49,
+0.039189351,1339,Gomez,Alfonso,21,Hispanic,CA,Orange,63,1998,2012,14,35,4,39,
+0.924318736,1340,Davis,Cody,21,Caucasian,FL,Palm Beach,3,2006,2007,1,22,9,31,DNA
+0.539970881,1341,Guzman,Humberto,40,Hispanic,MA,Suffolk,19,1992,1997,5,45,19,64,
+0.503176688,1342,Rose,Michael,25,Caucasian,WA,Chelan,23,1995,2000,5,30,16,46,
+0.033212217,1343,Engesser,Oakley,41,Caucasian,SD,Meade,25,2001,2015,14,55,1,56,
+0.445844694,1344,Willis,John,42,Black,IL,Cook,65,1993,1999,6,48,17,65,DNA
+0.610481821,1345,Flores,Carlos,44,Hispanic,TX,Bexar,3,2010,2015,5,49,1,50,
+0.973288261,1346,Porter,Michael,26,Caucasian,FL,Pasco,77,1988,2002,14,40,14,54,
+0.101210396,1347,Garner,David,34,Black,F-OH,(Northern),13,2005,2008,3,37,8,45,
+0.43655412,1348,Amezquita,Gilbert,20,Hispanic,TX,Harris,15,1998,2007,9,29,9,38,
+0.840823213,1349,Cardenas,Carlos,23,Hispanic,NY,Queens,16.5,1996,2007,11,34,9,43,
+0.116757079,1350,Munro,Conrad,31,Caucasian,OR,Clackamas,0.054794521,2002,2015,13,44,1,45,
+0.112526928,1351,Elizondo,Mary Ann,27,Hispanic,TX,Jefferson,35,1984,2005,21,48,11,59,
+0.268791342,1352,"Islas, Jr.",Francisco,47,Hispanic,AZ,Santa Cruz,0.246575342,2013,2013,0,47,3,50,
+0.566614095,1353,Rojas,Luis Kevin,18,Hispanic,NY,New York,44,1992,1998,6,24,18,42,
+0.830157078,1354,Cole,Timothy B.,24,Black,TX,Lubbock,25,1986,2009,23,47,7,54,DNA
+0.798280082,1355,Mills,Randall,43,Caucasian,TN,Marshall,20,2000,2014,14,57,2,59,DNA
+0.687527455,1356,Passley,Marlon,23,Black,MA,Suffolk,75,1996,2000,4,27,16,43,
+0.110478005,1357,Carney,John,32,Caucasian,F-TX,(Northern),7.25,1995,1997,2,34,19,53,
+0.673804576,1358,Dixon,John,27,Black,NJ,Essex,45,1992,2001,9,36,15,51,DNA
+0.110312393,1359,Oakes,William,30,Caucasian,NY,Jefferson,31,1985,1992,7,37,24,61,
+0.430116994,1360,Gilman,William,60,Caucasian,NY,New York,0.246575342,2008,2011,3,63,5,68,
+0.196553538,1361,Carter,Quentin,16,Black,MI,Kent,13,1992,2015,23,39,1,40,
+0.22601457,1362,D'Ambrosio,Joe,26,Caucasian,OH,Cuyahoga,76,1989,2012,23,49,4,53,
+0.129709026,1363,"Tate, Jr.",Marcus,20,Black,TX,Harris,0.416666667,2006,2015,9,29,1,30,
+0.87214901,1364,Warney,Douglas,33,Caucasian,NY,Monroe,45,1997,2006,9,42,10,52,DNA
+0.225685721,1365,McNary,Willie Earl,26,Black,CA,San Diego,11,1984,1996,12,38,20,58,
+0.018130448,1366,Duke,Dale,42,Caucasian,TX,Dallas,20,1992,2011,19,61,5,66,
+0.985354678,1367,Smith,Timothy,35,Caucasian,KY,Kenton,20,2001,2006,5,40,10,50,
+0.398825457,1368,Ambler,Peter,24,Caucasian,WI,Rock,76,1987,1989,2,26,27,53,
+0.146572319,1369,Rodriguez,Manual Hidalgo,36,Hispanic,WA,Chelan,5.5,1995,2000,5,41,16,57,
+0.621061653,1370,Atkins,Kenneth,16,Caucasian,FL,Martin,10,2004,2008,4,20,8,28,
+0.971742088,1371,Weaver,Mary,41,Caucasian,IA,Marshall,75,1994,1997,3,44,19,63,
+0.284161518,1372,Newsome,James,24,Black,IL,Cook,67,1980,1995,15,39,21,60,
+0.73458408,1373,Thibodeaux,Damon,21,Caucasian,LA,Jefferson,79,1997,2012,15,36,4,40,DNA
+0.093652044,1374,Wilkins,Geary,40,Black,TX,Harris,0.5,2013,2014,1,41,2,43,
+0.740319563,1375,Smith,Tammy,32,Caucasian,IA,Humboldt,10,2007,2011,4,36,5,41,
+0.766548853,1376,Gainus,Rhonda,44,Caucasian,TX,Ellis,3,2012,2013,1,45,3,48,
+0.472940404,1377,Harden,James,16,Black,IL,Cook,80,1995,2011,16,32,5,37,DNA
+0.458364372,1378,Holmes,Phillip,33,Black,TX,Harris,0.5,2014,2015,1,34,1,35,
+0.271655036,1379,Aviles,Anselmo,22,Hispanic,MA,Worcester,17,1989,1997,8,30,19,49,
+0.290689857,1380,Thompson,Teddy,16,Black,VA,Hampton,16,2001,2007,6,22,9,31,
+0.036938929,1381,Tillman,James Calvin,25,Black,CT,Hartford,45,1989,2006,17,42,10,52,DNA
+0.079043096,1382,Catalan,Moises,25,Hispanic,TX,Dallas,35,1997,2003,6,31,13,44,
+0.90161226,1383,Fuller,Larry,31,Black,TX,Dallas,50,1981,2006,25,56,10,66,DNA
+0.944063779,1384,Hart,James Thomas,43,Caucasian,CA,Napa,12,1990,2001,11,54,15,69,
+0.362601201,1385,O'Neal,Johnnie,25,Black,NY,New York,15,1985,2013,28,53,3,56,
+0.444194591,1386,Rocha,Mario,16,Hispanic,CA,Los Angeles,45,1998,2008,10,26,8,34,
+0.020974211,1387,Dollard,Jermaine,38,Black,DE,Kent,20,2013,2015,2,40,1,41,
+0.813029324,1388,Jimerson,Verneal,25,Black,IL,Cook,79,1985,1996,11,36,20,56,DNA
+0.915215978,1389,Davis,LaVelle,20,Black,IL,Kane,45,1997,2009,12,32,7,39,
+0.185583202,1390,Shved,Olga,23,Caucasian,WA,Franklin,10,2009,2014,5,28,2,30,
+0.127670371,1391,McNair,Daniel,35,Black,SC,Lancaster,70,1986,2000,14,49,16,65,
+0.070882107,1392,Recendez-Lopez,Edgar,20,Caucasian,TX,Harris,0.25,2010,2014,4,24,2,26,
+0.711444014,1393,Frese,George,20,Native American,AK,Fairbanks,40,1999,2015,16,36,1,37,
+0.25589336,1394,Pejcinovic,Frank,17,Caucasian,NY,Bronx,2,1989,1993,4,21,23,44,
+0.704977085,1395,Pham,Thomas,20,Asian,TX,Harris,0.02739726,2015,2015,0,20,1,21,
+0.199666247,1396,Masters,Timothy,15,Caucasian,CO,Larimer,76,1999,2008,9,24,8,32,DNA
+0.749217133,1397,Stewart,Dail,22,Caucasian,UT,Salt Lake,33,1984,1992,8,30,24,54,
+0.451287332,1398,Vasquez,David,36,Hispanic,VA,Arlington,35,1985,1989,4,40,27,67,DNA
+0.649586489,1399,Garcia,Adrian,19,Hispanic,TX,Harris,0.068493151,2015,2015,0,19,1,20,
+0.664715718,1400,Giles,James Curtis,26,Black,TX,Dallas,30,1983,2007,24,50,9,59,DNA
+0.712454412,1401,Murray,Patrick,34,Caucasian,F-NY,Eastern,5,2010,2014,4,38,2,40,
+0.385336569,1402,Powell,Anthony,23,Black,MA,Suffolk,16,1992,2004,12,35,12,47,DNA
+0.975744974,1403,Robinson,Davonn,17,Black,WI,Milwaukee,5,2006,2010,4,21,6,27,
+0.302091927,1404,Dowaliby,David,31,Caucasian,IL,Cook,45,1990,1992,2,33,24,57,
+0.926343206,1405,Doswell,Thomas,24,Black,PA,Allegheny,19.5,1986,2005,19,43,11,54,DNA
+0.319326689,1406,Gonzalez,David,33,Hispanic,SD,Lawrence,1.5,1999,2001,2,35,15,50,
+0.115298068,1407,Winfrey,Megan,16,Caucasian,TX,San Jacinto,76,2008,2013,5,21,3,24,
+0.087002348,1408,Bianco,Thomas,19,Caucasian,NY,Cayuga,53,1986,1993,7,26,23,49,
+0.354438987,1409,Plotnick,Samuel,28,Caucasian,KY,Whitley,20,2001,2008,7,35,8,43,
+0.293797449,1410,Frey,Joseph,31,Caucasian,WI,Winnebago,60,1994,2013,19,50,3,53,DNA
+0.644552898,1411,Nunez,Lorenzo,23,Hispanic,CA,Monterey,40,1995,2001,6,29,15,44,
+0.529438624,1412,Andersen,Daniel,19,Caucasian,IL,Cook,55,1982,2015,33,52,1,53,DNA
+0.378880231,1413,Dail,Dwayne Allen,17,Caucasian,NC,Wayne,78,1989,2007,18,35,9,44,DNA
+0.580794238,1414,Stoll,John,41,Caucasian,CA,Kern,40,1985,2004,19,60,12,72,
+0.121812311,1415,"Kelly, Jr.",William M.,37,Caucasian,PA,Dauphin,15,1990,1993,3,40,23,63,DNA
+0.692170417,1416,Holmes III,Charles,41,Caucasian,CA,San Diego,9,2005,2014,9,50,2,52,
+0.597205216,1417,Brown,Robert,42,Black,IL,Cook,35,1984,1989,5,47,27,74,
+0.716074584,1418,Bell,Derrick,22,Black,NY,Kings,18.5,1997,2007,10,32,9,41,
+0.070872781,1419,Avery,Chamar,18,Black,MI,Wayne,35,2000,2010,10,28,6,34,
+0.843715388,1420,Pierre,Charles,36,Black,NY,Monroe,43,2003,2015,12,48,1,49,
+0.11588918,1421,Perez,Carlos,25,Hispanic,NY,Bronx,56,1997,2013,16,41,3,44,
+0.82595924,1422,Gagnon,Richard,32,Caucasian,SC,Horry,65,2008,2015,7,39,1,40,DNA
+0.737397136,1423,Tomaino,John,41,Caucasian,NY,Niagara,54,1996,1999,3,44,17,61,
+0.946074759,1424,Johnson,Richard,31,Black,IL,Cook,36,1992,1996,4,35,20,55,DNA
+0.01457277,1425,Reed,Cornelius,15,Black,WI,Milwaukee,80,1993,1997,4,19,19,38,
+0.219669724,1426,Tong,Alan,30,Asian,TX,Montgomery,0.5,2012,2015,3,33,1,34,
+0.897501234,1427,Montgomery,LaDondrell,34,Black,TX,Harris,68,2010,2011,1,35,5,40,
+0.504568477,1428,Watkins,John,18,Caucasian,AZ,Maricopa,14,2004,2010,6,24,6,30,DNA
+0.403408731,1429,McInnis,Edward,27,Black,NC,Scotland,64,1988,2015,27,54,1,55,DNA
+0.923851243,1430,Petrossi,Ted,40,Caucasian,UT,Utah,19,1996,1998,2,42,18,60,
+0.414639548,1431,Robison,James Albert,53,Caucasian,AZ,Maricopa,78,1977,1993,16,69,23,92,
+0.129858329,1432,Addison,Ronald,19,Black,MD,Baltimore City,30,1998,2005,7,26,11,37,
+0.918310422,1433,DeSimone,David,45,Caucasian,IA,Clinton,15,2005,2012,7,52,4,56,
+0.225198855,1434,Kotler,Kerry,22,Caucasian,NY,Suffolk,37.5,1982,1992,10,32,24,56,DNA
+0.601427339,1435,Sutherlin,David Brian,23,Black,MN,Ramsey,3,1985,2002,17,40,14,54,DNA
+0.089391087,1436,Croy,Norma Jean,23,Native American,CA,Siskiyou,72,1979,1997,18,41,19,60,
+0.924321451,1437,Woodall,Glen,28,Caucasian,WV,Cabell,62,1987,1992,5,33,24,57,DNA
+0.477914134,1438,Smith,John Edward,18,Black,CA,Los Angeles,75,1994,2012,18,36,4,40,
+0.657930441,1439,Britton,Robert,38,Black,IL,Cook,50,1996,2014,18,56,2,58,
+0.273092778,1440,Shomberg,Forest,38,Caucasian,WI,Dane,12,2003,2009,6,44,7,51,DNA
+0.25521133,1441,Washington,Wayne,20,Black,IL,Cook,25,1996,2015,19,39,1,40,
+0.808084446,1442,Thames,Vincent,16,Black,IL,Cook,30,1998,2012,14,30,4,34,DNA
+0.908462526,1443,"Woodside, Jr.",Gary,20,Caucasian,NY,Jefferson,2.65,1989,2007,18,38,9,47,
+0.011073874,1444,Lehmer,Joel,32,Caucasian,IA,Pottawattamie,15,1997,1998,1,33,18,51,
+0.219927497,1445,Amon-Ra,Nubian,43,Black,AZ,Cochise,7.5,2006,2012,6,49,4,53,
+0.144554413,1446,Herrera,Bobby Paiste,17,Hispanic,CA,Santa Clara,5,1998,2000,2,19,16,35,
+0.843422242,1447,Baltrip,Henry,22,Black,TX,Harris,7,2013,2015,2,24,1,25,
+0.006885757,1448,Lewis,Nathaniel,18,Black,OH,Summit,8,1997,2004,7,25,12,37,
+0.180274309,1449,Baylor,Ronnie,25,Black,CA,Riverside,16,1987,1996,9,34,20,54,
+0.216040442,1450,Ayers,Devon,18,Black,NY,Bronx,45,1997,2012,15,33,4,37,
+0.898591747,1451,Adams,Johnathan,12,Caucasian,GA,Carroll,1,2005,2006,1,13,10,23,
+0.869975213,1452,Hugee,Larry Lane,48,Black,MD,Wicomico,25,2004,2013,9,57,3,60,
+0.732342561,1453,Bain,James,19,Black,FL,Polk,74,1974,2009,35,54,7,61,DNA
+0.75615669,1454,Fritz,Dennis,22,Caucasian,OK,Pontotoc,68,1988,1999,11,33,17,50,DNA
+0.566497848,1455,Swift,Walter,21,Black,MI,Wayne,42.5,1982,2008,26,47,8,55,
+0.890392437,1456,Lee,William,25,Caucasian,GA,Wayne,72,1987,2015,28,53,1,54,
+0.319211302,1457,Jernigan,Rachel,30,Hispanic,F-AZ,,14,2001,2008,7,37,8,45,
+0.876434883,1458,Hunter,Darrell,22,Black,CA,Marin,76,2000,2008,8,30,8,38,
+0.636235947,1459,McKinney,DeWayne,19,Black,CA,Orange,74,1981,2000,19,38,16,54,
+0.754141276,1460,Googe,Michael,26,Caucasian,GA,Glynn,2,2008,2015,7,33,1,34,DNA
+0.962704078,1461,Morris,Oscar,33,Black,CA,Los Angeles,67,1983,2000,17,50,16,66,
+0.562381451,1462,Davis,Andre,19,Black,IL,Champaign,75,1981,2012,31,50,4,54,DNA
+0.998307342,1463,Sifuentes,Alberto,22,Hispanic,TX,Lamb,74,1998,2008,10,32,8,40,
+0.86840116,1464,Deskovic,Jeffrey,16,Caucasian,NY,Westchester,45,1990,2006,16,32,10,42,DNA
+0.041862506,1465,Penalver,Seth,21,Caucasian,FL,Broward,69,1999,2012,13,34,4,38,
+0.857152082,1466,Adams,Reginald,26,Black,LA,Orleans,77,1983,2014,31,57,2,59,
+0.881736441,1467,Cousin,Shareef,16,Black,LA,Orleans,78,1996,1999,3,19,17,36,
+0.45423616,1468,Felix,Darren,19,Black,NY,Bronx,12,2004,2010,6,25,6,31,
+0.540373982,1469,Bumbury,Michael,23,Black,NY,Bronx,31,1999,2002,3,26,14,40,
+0.920060259,1470,James,Gary Lamar,23,Black,OH,Franklin,77,1977,2003,26,49,13,62,
+0.750913568,1471,Seeland,Benjamin,32,Caucasian,AK,Sitka,0.166666667,2014,2015,1,33,1,34,
+0.755322081,1472,Gray,Anthony,23,Black,MD,Calvert,77,1991,1999,8,31,17,48,DNA
+0.134850903,1473,Chretien,Roland,44,Caucasian,NH,Rockingham,9,2005,2008,3,47,8,55,
+0.475994497,1474,Conley,Caramad,18,Black,CA,San Francisco,79,1994,2011,17,35,5,40,
+0.401427915,1475,McKenzie,Gerald,24,Black,MI,Wayne,74,1984,2004,20,44,12,56,
+0.836709472,1476,Franklin,George,30,Caucasian,CA,San Mateo,68,1990,1996,6,36,20,56,DNA
+0.625014845,1477,Sermeno,Miguel Angel,38,Hispanic,CA,Santa Clara,0.666666667,1995,1997,2,40,19,59,
+0.118543224,1478,Wanzer,Terry Lee,20,Caucasian,GA,Clayton,70,1973,1991,18,38,25,63,
+0.479997328,1479,Ortiz,Anthony,20,Hispanic,NY,New York,65,1993,2011,18,38,5,43,
+0.359177779,1480,Lee,William,17,Black,MI,Wayne,22.5,2007,2010,3,20,6,26,DNA
+0.137001584,1481,Harris,Anthony,12,Black,OH,Tuscarawas,7,1999,2000,1,13,16,29,
+0.100567128,1482,Forsythe,Wayne,28,Caucasian,CA,Kern,72,1985,1991,6,34,25,59,
+0.844361061,1483,Jose,Terrence,32,Hispanic,MI,Oakland,32.5,2010,2014,4,36,2,38,
+0.59631112,1484,Buntin,Harold,15,Black,IN,Marion,50,1986,2007,21,36,9,45,DNA
+0.430592957,1485,Castor,Gregory,34,Black,TX,Harris,0.246575342,2014,2014,0,34,2,36,
+0.712222573,1486,Conley,Kenneth,27,Caucasian,MA,Suffolk,2.5,1998,2005,7,34,11,45,
+0.596305291,1487,Ramirez,Jesus,48,Hispanic,TX,Lamb,77,1998,2008,10,58,8,66,
+0.739292027,1488,Hayes,Reginald,14,Black,NV,Clark,79,1985,1999,14,28,17,45,
+0.733358576,1489,Thain,Leeann,40,Caucasian,MI,Berrien,0.246575342,2011,2014,3,43,2,45,
+0.82043276,1490,Velasquez,Eduardo,21,Hispanic,MA,Hampden,15,1988,2001,13,34,15,49,DNA
+0.387886466,1491,Sterling,Frank,25,Caucasian,NY,Monroe,47,1992,2010,18,43,6,49,DNA
+0.948720984,1492,Herrera,Eric,42,Hispanic,TX,Galveston,0.5,2011,2012,1,43,4,47,
+0.84823853,1493,Chandler,Edwin,21,Black,KY,Jefferson,30,1995,2009,14,35,7,42,
+0.522896802,1494,Buchli II,Richard,50,Caucasian,MO,Jackson,67,2002,2012,10,60,4,64,
+0.535962226,1495,Kiel,Archie,48,Caucasian,MI,Kalkaska,0.416666667,2010,2012,2,50,4,54,
+0.162420256,1496,Marshall,Michael,41,Black,GA,Fulton,4,2008,2009,1,42,7,49,DNA
+0.987632306,1497,Ranta,David,35,Caucasian,NY,Kings,62,1991,2013,22,57,3,60,
+0.719633157,1498,"Richardson, Jr.",James E.,36,Caucasian,WV,Kanawha,58,1989,1999,10,46,17,63,DNA
+0.357135681,1499,Koubriti,Karim,22,Other,F-MI,(Eastern),5,2003,2004,1,23,12,35,
+0.896817397,1500,Milke,Debra,25,Caucasian,AZ,Maricopa,71,1990,2015,25,50,1,51,
+0.516320934,1501,Davenport-Fritsche,Donna,30,Caucasian,TX,Montgomery,0.164383562,2012,2013,1,31,3,34,
+0.603525422,1502,Doggett,Mark,35,Caucasian,WA,Chelan,10,1995,2000,5,40,16,56,
+0.760204091,1503,Carmona,Arthur,16,Hispanic,CA,Orange,12,1998,2000,2,18,16,34,
+0.578053969,1504,Munchinski,David,25,Caucasian,PA,Fayette,65,1986,2013,27,52,3,55,
+0.23085671,1505,Dudley,Ronald,19,Black,NY,Queens,15,2000,2001,1,20,15,35,
+0.410998068,1506,Adams,Kenneth,21,Black,IL,Cook,75,1978,1996,18,39,20,59,DNA
+0.399977503,1507,Sullivan,Harold,31,Caucasian,MA,Bristol,59,1986,1990,4,35,26,61,
+0.390149541,1508,Diaz Morales,Robert Anel,20,Hispanic,PR,,100,2004,2012,8,28,4,32,
+0.841507679,1509,Hungerford,Jordan,24,Caucasian,TX,Denton,3,2014,2014,0,24,2,26,
+0.679492076,1510,Hurt,Davie,17,Black,WV,Mercer,80,1998,2014,16,33,2,35,
+0.845132839,1511,Linehan,Mechele,23,Caucasian,AK,Anchorage,79,2007,2012,5,28,4,32,
+0.698213586,1512,Gondor,Robert,24,Caucasian,OH,Portage,17.5,1990,2007,17,41,9,50,
+0.22124862,1513,Modahl,Jeffrey,29,Caucasian,CA,Kern,48,1986,1999,13,42,17,59,
+0.129466208,1514,"Barnes, Jr.",Donald,32,Caucasian,FL,Sarasota,58,2011,2014,3,35,2,37,
+0.044999832,1515,Nelson,Robert,20,Black,MO,Jackson,76,1984,2013,29,49,3,52,DNA
+0.663847541,1516,Anderson,Marvin,18,Black,VA,Hanover,74,1982,2002,20,38,14,52,DNA
+0.155075522,1517,LaBran,Dwight,23,Black,LA,Orleans,80,1997,2001,4,27,15,42,
+0.804207136,1518,Whitehead,Ronnie,31,Caucasian,TX,Harris,0.5,2004,2014,10,41,2,43,
+0.675607701,1519,Hill,Harold,16,Black,IL,Cook,78,1994,2005,11,27,11,38,DNA
+0.368589509,1520,Foley,Thomas,40,Caucasian,MI,Branch,65,2009,2011,2,42,5,47,
+0.144471761,1521,Willis,Ernest Ray,39,Caucasian,TX,Pecos,73,1987,2004,17,56,12,68,
+0.515264628,1522,Charles,Ulysses Rodriguez,30,Black,MA,Suffolk,80,1984,2001,17,47,15,62,DNA
+0.043633337,1523,Lackey,Dan,28,Caucasian,NY,Madison,8,2004,2007,3,31,9,40,
+0.73221026,1524,Prion,Lemuel,30,Caucasian,AZ,Pima,77,1999,2003,4,34,13,47,
+0.194781967,1525,Taylor,Don,20,Black,NY,Bronx,57,1989,2004,15,35,12,47,
+0.787916825,1526,Proctor,Eric,18,Caucasian,OR,Lane,74,1986,1995,9,27,21,48,DNA
+0.986262646,1527,Honaker,Edward,33,Caucasian,VA,Nelson,75,1985,1994,9,42,22,64,DNA
+0.798819277,1528,Tillman,Michael,20,Black,IL,Cook,73,1986,2010,24,44,6,50,
+0.792320549,1529,Jones,David Allen,32,Black,CA,Los Angeles,53,1995,2004,9,41,12,53,DNA
+0.643613285,1530,McDowell,Vidale,17,Black,MI,Wayne,80,2003,2004,1,18,12,30,
+0.684625253,1531,Ralston,Sean,18,Caucasian,MA,Middlesex,12.5,1989,1992,3,21,24,45,
+0.393051605,1532,Harris,Lynnette,33,Caucasian,F-WI,(Eastern),0.833333333,1990,1991,1,34,25,59,
+0.417732169,1533,Gillard,Larry,22,Black,IL,Cook,24,1984,2009,25,47,7,54,DNA
+0.113573248,1534,Kirkwood,Justin,22,Caucasian,PA,Lawrence,5,2003,2006,3,25,10,35,
+0.23647084,1535,Miller,Morgan,27,Black,OH,Lucas,30,1984,1992,8,35,24,59,
+0.54625368,1536,Kezer,Joshua,17,Caucasian,MO,Scott,30,1994,2009,15,32,7,39,DNA
+0.327113739,1537,Gladden,David,36,Black,PA,Dauphin,64,1995,2007,12,48,9,57,
+0.1829065,1538,McGee,Arvin,25,Black,OK,Tulsa,77,1989,2002,13,38,14,52,DNA
+0.820072134,1539,McCracken,Terence,18,Caucasian,PA,Delaware,77,1983,1995,12,30,21,51,
+0.068077251,1540,Drennen,Gabriel,36,Caucasian,WY,Freemont,62,2011,2013,2,38,3,41,
+0.355384812,1541,Gibbs,Barry,38,Caucasian,NY,Kings,54,1988,2005,17,55,11,66,
+0.08637899,1542,Lamb,Larry,36,Black,NC,Duplin,75,1993,2013,20,56,3,59,
+0.221692442,1543,Jackson,Ricky,18,Black,OH,Cuyahoga,74,1975,2014,39,57,2,59,
+0.476633596,1544,Steidl,Gordon,35,Caucasian,IL,Edgar,58,1987,2004,17,52,12,64,
+0.86030817,1545,Johnson,LaShawn,28,Black,F-MT,,35,2006,2015,9,37,1,38,
+0.448555546,1546,Wilson,Johnny Lee,20,Caucasian,MO,Jasper,80,1987,1995,8,28,21,49,
+0.007679657,1547,Johnson,Juan,19,Black,IL,Cook,30,1991,2004,13,32,12,44,
+0.331925492,1548,Toney,Michael,19,Caucasian,TX,Tarrant,75,1999,2009,10,29,7,36,
+0.398556559,1549,Johnson,Timothy,22,Black,GA,Houston,75,1984,2013,29,51,3,54,
+0.029969424,1550,Cheshire,Jesse Allen,37,Caucasian,OK,Bryan,16,2004,2008,4,41,8,49,
+0.0387764,1551,Brown,Timothy,14,Black,FL,Broward,79,1993,2003,10,24,13,37,
+0.587574838,1552,Cruz,Rolando,19,Hispanic,IL,DuPage,73,1985,1995,10,29,21,50,DNA
+0.984684403,1553,Echols,Douglas,25,Black,GA,Fulton,31,1987,2002,15,40,14,54,DNA
+0.704394105,1554,Wyatt,Rickey Dale,25,Black,TX,Dallas,76,1981,2012,31,56,4,60,DNA
+0.813928704,1555,Murray,Lacresha,11,Black,TX,Travis,20,1996,2001,5,16,15,31,
+0.607832504,1556,Forbes,Todd,35,Caucasian,F-MIL,,15,1998,2006,8,43,10,53,
+0.320836552,1557,Dwight,Nathan Christopher,21,Black,GA,Rockdale,74,2010,2013,3,24,3,27,DNA
+0.660107733,1558,Cesar,Owen,26,Black,PA,Berks,3,2005,2011,6,32,5,37,
+0.943931144,1559,Hodges,Devron,21,Black,TX,Lavaca,10,2013,2015,2,23,1,24,
+0.88102755,1560,Odom,Kirk,18,Black,DC,,43,1981,2012,31,49,4,53,DNA
+0.186502728,1561,Houston,Elton,27,Black,IL,Cook,35,1984,1989,5,32,27,59,
+0.228069418,1562,Letcher,Donald,29,Caucasian,SD,McCook,5,1995,1996,1,30,20,50,
+0.963577282,1563,Deeb,Muneer,23,Other,TX,McLennan,71,1985,1993,8,31,23,54,
+0.895471862,1564,Thomas,Marvin,20,Caucasian,WV,Wood,71,1987,1993,6,26,23,49,
+0.256452818,1565,Burt,Lazaro,20,Black,NY,Queens,41,1994,2002,8,28,14,42,
+0.92525571,1566,Hatchett,Nathaniel,17,Black,MI,Macomb,32.5,1998,2008,10,27,8,35,DNA
+0.104677887,1567,Hill,Michael,18,Black,MA,Hampden,73,1996,2002,6,24,14,38,
+0.554167479,1568,Fritz,Judith,35,Caucasian,PA,Lehigh,3,1995,1997,2,37,19,56,
+0.9400341,1569,Watkins,Cathy,27,Black,NY,Bronx,65,1997,2012,15,42,4,46,
+0.860659221,1570,Williams,Michael Anthony,16,Black,LA,Jackson,76,1981,2005,24,40,11,51,DNA
